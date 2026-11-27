@@ -1,0 +1,879 @@
+{
+  "note": "SYNTHETIC sample data for the APAN 5560 class project. Copy written to the fictional brand guides; numbers in copy come from ev.db (synthetic); metrics are randomly generated.",
+  "ads": [
+    {
+      "ad_id": "TSL-01",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "channel": "social",
+      "launch_date": "2026-01-01",
+      "copy": {
+        "headline": "Your commute, rewritten quietly",
+        "text": "Charge at home overnight. Up to 154 miles of estimated range. Schedule a demo drive.",
+        "disclaimer": "Actual range varies with conditions and driving habits."
+      },
+      "cta": "Schedule a demo drive",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 186439,
+        "clicks": 2178,
+        "ctr": 0.0117,
+        "conversions": 63,
+        "spend_usd": 2237.27
+      }
+    },
+    {
+      "ad_id": "TSL-02",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "channel": "search",
+      "launch_date": "2026-02-08",
+      "copy": {
+        "headline": "Model 3: Quiet and Efficient",
+        "description": "Up to 154 mi of estimated range. New features via software updates. Order now.",
+        "disclaimer": "Actual range varies with conditions and driving habits."
+      },
+      "cta": "Order now",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 279112,
+        "clicks": 11122,
+        "ctr": 0.0398,
+        "conversions": 303,
+        "spend_usd": 27805.0
+      }
+    },
+    {
+      "ad_id": "TSL-03",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "channel": "social",
+      "launch_date": "2026-03-15",
+      "copy": {
+        "headline": "Skip the gas station for good",
+        "text": "Plug in at home, wake up charged. Model 3 gets new features through software updates. Learn more."
+      },
+      "cta": "Learn more",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 167420,
+        "clicks": 1731,
+        "ctr": 0.0103,
+        "conversions": 58,
+        "spend_usd": 2009.04
+      }
+    },
+    {
+      "ad_id": "TSL-04",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "channel": "email",
+      "launch_date": "2026-04-22",
+      "copy": {
+        "subject": "Your commute, minus the gas station",
+        "preheader": "Model 3 charges at home overnight and installs software updates while parked.",
+        "body": "Monday morning. You unplug, back out of the driveway and the battery is already full. No detour to the gas station, no waiting in line. Model 3 charges overnight from a Wall Connector in your garage, so every morning starts the same way. On the road, the cabin stays quiet and regenerative braking slows the car as you lift off the pedal, sending energy back to the battery. When the car is parked, software updates install over Wi-Fi and add new features over time. Model 3 Base offers up to 154 miles of estimated range, enough for a week of typical commuting for many drivers. Want to feel the difference for yourself? Schedule a demo drive at a location near you and take your usual route. Actual range varies with conditions and driving habits."
+      },
+      "cta": "Schedule a demo drive",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "delivered": 116210,
+        "opens": 35851,
+        "open_rate": 0.3085,
+        "clicks": 4406,
+        "click_rate": 0.0379,
+        "conversions": 185,
+        "spend_usd": 232.42
+      }
+    },
+    {
+      "ad_id": "TSL-05",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "channel": "search",
+      "launch_date": "2026-05-01",
+      "copy": {
+        "headline": "Best Sedan Ever Made",
+        "description": "FSD drives you everywhere. Revolutionary. Order now!"
+      },
+      "cta": "Order now",
+      "on_brand": false,
+      "approved": false,
+      "metrics": {
+        "impressions": 314067,
+        "clicks": 5552,
+        "ctr": 0.0177,
+        "conversions": 102,
+        "spend_usd": 13880.0
+      }
+    },
+    {
+      "ad_id": "TSL-06",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "channel": "social",
+      "launch_date": "2026-06-08",
+      "copy": {
+        "headline": "0-60 in 6.51s. Quietly.",
+        "text": "Model 3 Base. Instant torque, a calm cabin and Supercharger stops on long trips. Schedule a demo drive."
+      },
+      "cta": "Schedule a demo drive",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 381186,
+        "clicks": 3707,
+        "ctr": 0.0097,
+        "conversions": 91,
+        "spend_usd": 4574.23
+      }
+    },
+    {
+      "ad_id": "TSL-07",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "channel": "social",
+      "launch_date": "2026-07-15",
+      "copy": {
+        "headline": "The REVOLUTIONARY Model 3!!",
+        "text": "Never worry about range again. Self-driving fun for everyone!"
+      },
+      "cta": "Order now",
+      "on_brand": false,
+      "approved": false,
+      "metrics": {
+        "impressions": 157114,
+        "clicks": 1218,
+        "ctr": 0.0078,
+        "conversions": 28,
+        "spend_usd": 1885.37
+      }
+    },
+    {
+      "ad_id": "TSL-08",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "channel": "social",
+      "launch_date": "2026-08-22",
+      "copy": {
+        "headline": "Room for the whole weekend",
+        "text": "Bikes, bags and the dog. Up to 280 miles of estimated range. Schedule a demo drive.",
+        "disclaimer": "Actual range varies with conditions and driving habits."
+      },
+      "cta": "Schedule a demo drive",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 366763,
+        "clicks": 5122,
+        "ctr": 0.014,
+        "conversions": 333,
+        "spend_usd": 4401.16
+      }
+    },
+    {
+      "ad_id": "TSL-09",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "channel": "search",
+      "launch_date": "2026-09-01",
+      "copy": {
+        "headline": "Model Y: Room for Seven",
+        "description": "Space for the team and the gear, with Supercharger stops on the way. Order now."
+      },
+      "cta": "Order now",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 98101,
+        "clicks": 3927,
+        "ctr": 0.04,
+        "conversions": 117,
+        "spend_usd": 9817.5
+      }
+    },
+    {
+      "ad_id": "TSL-10",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "channel": "email",
+      "launch_date": "2026-10-08",
+      "copy": {
+        "subject": "School run Monday, road trip Saturday",
+        "preheader": "Model Y adds Supercharger stops to your route on longer drives.",
+        "body": "Monday starts with backpacks, a forgotten lunch box and a quick loop to school. Saturday starts with a cooler, two bikes and four hours of highway. Model Y is built for both. Enter a destination in navigation and the car adds Supercharger stops along the route when you need them, with a charging estimate for each stop. Between trips, charge at home on a Wall Connector so the week begins with a full battery. The rear seats fold flat when the gear outnumbers the passengers, and the cabin stays quiet enough for the back row to fall asleep. Model Y Long Range offers up to 280 miles of estimated range. See how it fits your week: schedule a demo drive and bring the car seats. Actual range varies with conditions and driving habits."
+      },
+      "cta": "Schedule a demo drive",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "delivered": 87302,
+        "opens": 21450,
+        "open_rate": 0.2457,
+        "clicks": 2787,
+        "click_rate": 0.0319,
+        "conversions": 66,
+        "spend_usd": 174.6
+      }
+    },
+    {
+      "ad_id": "TSL-11",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "channel": "social",
+      "launch_date": "2026-01-15",
+      "copy": {
+        "headline": "Road trips, planned for you",
+        "text": "Set a destination and Model Y adds Supercharger stops along the route. Learn more."
+      },
+      "cta": "Learn more",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 101209,
+        "clicks": 1096,
+        "ctr": 0.0108,
+        "conversions": 55,
+        "spend_usd": 1214.51
+      }
+    },
+    {
+      "ad_id": "TSL-12",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "channel": "search",
+      "launch_date": "2026-02-22",
+      "copy": {
+        "headline": "Model Y Long Range",
+        "description": "Up to 280 mi of estimated range. Actual range varies. Schedule a demo drive.",
+        "disclaimer": "Actual range varies with conditions and driving habits."
+      },
+      "cta": "Schedule a demo drive",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 109480,
+        "clicks": 4223,
+        "ctr": 0.0386,
+        "conversions": 187,
+        "spend_usd": 10557.5
+      }
+    },
+    {
+      "ad_id": "TSL-13",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "channel": "social",
+      "launch_date": "2026-03-01",
+      "copy": {
+        "headline": "Model Y drives itself!",
+        "text": "Hands-free, worry-free family trips. Unlimited fun. Order now!"
+      },
+      "cta": "Order now",
+      "on_brand": false,
+      "approved": false,
+      "metrics": {
+        "impressions": 126204,
+        "clicks": 834,
+        "ctr": 0.0066,
+        "conversions": 13,
+        "spend_usd": 1514.45
+      }
+    },
+    {
+      "ad_id": "TSL-14",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "channel": "email",
+      "launch_date": "2026-04-08",
+      "copy": {
+        "subject": "Room for seven, or one very large dog",
+        "preheader": "Fold the seats, load the gear and let the car plan the charging stops.",
+        "body": "Some weekends you need every seat. Other weekends you need the cargo floor for a crate, a stroller and a week of groceries. Model Y handles both: fold the rear seats flat and the space opens up in seconds. Charging fits around your plans instead of the other way around. Plug in at home overnight, and on longer trips the navigation adds Supercharger stops so you arrive with charge to spare. Sentry Mode can watch the car while you are away from it, and software updates install while it is parked in the driveway. On busy mornings, the car can be warmed up or cooled down from your phone before anyone gets in. If the family calendar is full, Model Y is ready for it. Order now and choose the seating layout that suits your household."
+      },
+      "cta": "Order now",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "delivered": 57410,
+        "opens": 16086,
+        "open_rate": 0.2802,
+        "clicks": 2759,
+        "click_rate": 0.0481,
+        "conversions": 102,
+        "spend_usd": 114.82
+      }
+    },
+    {
+      "ad_id": "TSL-15",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "channel": "social",
+      "launch_date": "2026-05-15",
+      "copy": {
+        "headline": "Your job site just got quieter",
+        "text": "Tow, haul and power your tools from the outlets, then drive home electric. Learn more."
+      },
+      "cta": "Learn more",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 290059,
+        "clicks": 3592,
+        "ctr": 0.0124,
+        "conversions": 213,
+        "spend_usd": 3480.71
+      }
+    },
+    {
+      "ad_id": "TSL-16",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "channel": "search",
+      "launch_date": "2026-06-22",
+      "copy": {
+        "headline": "Cybertruck: Built for Work",
+        "description": "Power outlets for your tools and up to 277 mi of estimated range. Learn more.",
+        "disclaimer": "Actual range varies with conditions and driving habits."
+      },
+      "cta": "Learn more",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 158425,
+        "clicks": 6590,
+        "ctr": 0.0416,
+        "conversions": 209,
+        "spend_usd": 16475.0
+      }
+    },
+    {
+      "ad_id": "TSL-17",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "channel": "email",
+      "launch_date": "2026-07-01",
+      "copy": {
+        "subject": "Power tools, meet your truck",
+        "preheader": "Run your tools from the outlets and drive home without a gas stop.",
+        "body": "Early morning on the job site, and the generator stayed in the shed. Cybertruck has power outlets in the cabin and the bed, so saws, chargers and work lights plug straight into the truck. When the day ends, load the tools, hook up the trailer and drive home on electric power. Regenerative braking recovers energy on the way down hills, and the truck charges overnight on a Wall Connector so it is ready for tomorrow's early start. Cybertruck offers up to 277 miles of estimated range for the drive between sites and the trip home. Check the owner's manual for outlet ratings before you plug in heavy equipment. Learn more about how Cybertruck fits your work week. Actual range varies with conditions and driving habits."
+      },
+      "cta": "Learn more",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "delivered": 100192,
+        "opens": 19286,
+        "open_rate": 0.1925,
+        "clicks": 1912,
+        "click_rate": 0.0191,
+        "conversions": 89,
+        "spend_usd": 200.38
+      }
+    },
+    {
+      "ad_id": "TSL-18",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "channel": "social",
+      "launch_date": "2026-08-08",
+      "copy": {
+        "headline": "Sentry Mode watches the truck",
+        "text": "Parked at the trailhead? Sentry Mode records around the truck while you hike. Learn more."
+      },
+      "cta": "Learn more",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 368325,
+        "clicks": 3199,
+        "ctr": 0.0087,
+        "conversions": 159,
+        "spend_usd": 4419.9
+      }
+    },
+    {
+      "ad_id": "TSL-19",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "channel": "search",
+      "launch_date": "2026-09-15",
+      "copy": {
+        "headline": "Bulletproof Cybertruck",
+        "description": "Indestructible, self-driving and better than any competitor. Order now!"
+      },
+      "cta": "Order now",
+      "on_brand": false,
+      "approved": false,
+      "metrics": {
+        "impressions": 103822,
+        "clicks": 3048,
+        "ctr": 0.0294,
+        "conversions": 105,
+        "spend_usd": 7620.0
+      }
+    },
+    {
+      "ad_id": "TSL-20",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "channel": "social",
+      "launch_date": "2026-10-22",
+      "copy": {
+        "headline": "Haul Friday. Commute Monday.",
+        "text": "Cybertruck tows the trailer on the weekend and handles the commute all week. Order now."
+      },
+      "cta": "Order now",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 140045,
+        "clicks": 1347,
+        "ctr": 0.0096,
+        "conversions": 31,
+        "spend_usd": 1680.54
+      }
+    },
+    {
+      "ad_id": "HYU-01",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "channel": "social",
+      "launch_date": "2026-01-01",
+      "copy": {
+        "headline": "Weekdays to weekends, sorted",
+        "text": "Room for the car seat, the groceries and the dog. Up to 177 miles of estimated range. Explore IONIQ 5.",
+        "disclaimer": "Actual range varies with conditions and driving habits."
+      },
+      "cta": "Explore IONIQ 5",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 148133,
+        "clicks": 1729,
+        "ctr": 0.0117,
+        "conversions": 88,
+        "spend_usd": 1777.6
+      }
+    },
+    {
+      "ad_id": "HYU-02",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "channel": "search",
+      "launch_date": "2026-02-08",
+      "copy": {
+        "headline": "IONIQ 5: Room to Live",
+        "description": "Fast charging that fits inside a coffee stop. Find a dealer."
+      },
+      "cta": "Find a dealer",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 307409,
+        "clicks": 10505,
+        "ctr": 0.0342,
+        "conversions": 305,
+        "spend_usd": 26262.5
+      }
+    },
+    {
+      "ad_id": "HYU-03",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "channel": "email",
+      "launch_date": "2026-03-15",
+      "copy": {
+        "subject": "One car for the commute and the road trip",
+        "preheader": "A roomy cabin for weekdays, DC fast charging for the weekend away.",
+        "body": "During the week, IONIQ 5 is the calm part of your day. You charge at home overnight, leave with a full battery and drive to work in a quiet, roomy cabin. On the weekend, it becomes the road-trip car. Pull into a DC fast charging station, grab a coffee and stretch your legs while the battery tops up. Lift your foot off the accelerator and regenerative braking slows the car while sending energy back to the battery, which makes stop-and-go traffic feel easier too. There is room in the back for the stroller, the weekend bags and the snacks nobody admits to packing. IONIQ 5 offers up to 177 miles of estimated range. Explore IONIQ 5 and see how one car can fit both halves of your week. Actual range varies with conditions and driving habits."
+      },
+      "cta": "Explore IONIQ 5",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "delivered": 40469,
+        "opens": 12044,
+        "open_rate": 0.2976,
+        "clicks": 1553,
+        "click_rate": 0.0384,
+        "conversions": 39,
+        "spend_usd": 80.94
+      }
+    },
+    {
+      "ad_id": "HYU-04",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "channel": "social",
+      "launch_date": "2026-04-22",
+      "copy": {
+        "headline": "The Revolutionary IONIQ 5!",
+        "text": "Zero emissions, unlimited range, best-in-class everything!"
+      },
+      "cta": "Explore IONIQ 5",
+      "on_brand": false,
+      "approved": false,
+      "metrics": {
+        "impressions": 152481,
+        "clicks": 787,
+        "ctr": 0.0052,
+        "conversions": 18,
+        "spend_usd": 1829.77
+      }
+    },
+    {
+      "ad_id": "HYU-05",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "channel": "search",
+      "launch_date": "2026-05-01",
+      "copy": {
+        "headline": "IONIQ 6: Built for Long Drives",
+        "description": "Streamlined design and up to 241 mi of estimated range. Find a dealer.",
+        "disclaimer": "Actual range varies with conditions and driving habits."
+      },
+      "cta": "Find a dealer",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 270242,
+        "clicks": 9214,
+        "ctr": 0.0341,
+        "conversions": 335,
+        "spend_usd": 23035.0
+      }
+    },
+    {
+      "ad_id": "HYU-06",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "channel": "social",
+      "launch_date": "2026-06-08",
+      "copy": {
+        "headline": "Long drives, fewer stops",
+        "text": "A calm cabin and a streamlined shape made for the open road. Explore IONIQ 6."
+      },
+      "cta": "Explore IONIQ 6",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 378147,
+        "clicks": 3970,
+        "ctr": 0.0105,
+        "conversions": 197,
+        "spend_usd": 4537.76
+      }
+    },
+    {
+      "ad_id": "HYU-07",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "channel": "social",
+      "launch_date": "2026-07-15",
+      "copy": {
+        "headline": "Best EV Sedan Ever",
+        "text": "Beats every competitor. No more range anxiety, ever!"
+      },
+      "cta": "Find a dealer",
+      "on_brand": false,
+      "approved": false,
+      "metrics": {
+        "impressions": 218675,
+        "clicks": 1194,
+        "ctr": 0.0055,
+        "conversions": 18,
+        "spend_usd": 2624.1
+      }
+    },
+    {
+      "ad_id": "HYU-08",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "channel": "email",
+      "launch_date": "2026-08-22",
+      "copy": {
+        "subject": "Your first EV can be this simple",
+        "preheader": "Plug in at home, wake up charged, and get on with your day.",
+        "body": "Your morning looks the same as it always has: coffee, keys, out the door. The only difference is that you never stop for gas again. Kona Electric charges at home overnight, so most days start with a full battery. Plug the charging cable into the charging port when you get home, and the car takes care of the rest. In town, Kona Electric is easy to park and easy to drive, and regenerative braking helps you slow down smoothly in traffic while recovering energy. It offers up to 288 miles of estimated range, which covers errands, commutes and the occasional weekend visit. Switching to electric does not have to mean learning a whole new routine. Build yours today. Actual range varies with conditions and driving habits."
+      },
+      "cta": "Build yours",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "delivered": 86134,
+        "opens": 20102,
+        "open_rate": 0.2334,
+        "clicks": 3126,
+        "click_rate": 0.0363,
+        "conversions": 98,
+        "spend_usd": 172.27
+      }
+    },
+    {
+      "ad_id": "HYU-09",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "channel": "social",
+      "launch_date": "2026-09-01",
+      "copy": {
+        "headline": "City errands, sorted",
+        "text": "Plug in at home tonight, run errands tomorrow. Kona Electric makes electric easy. Build yours."
+      },
+      "cta": "Build yours",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 146845,
+        "clicks": 1314,
+        "ctr": 0.0089,
+        "conversions": 73,
+        "spend_usd": 1762.14
+      }
+    },
+    {
+      "ad_id": "HYU-10",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "channel": "search",
+      "launch_date": "2026-10-08",
+      "copy": {
+        "headline": "Kona Electric: Easy Switch",
+        "description": "Up to 288 mi of estimated range. Charge at home overnight. Find a dealer.",
+        "disclaimer": "Actual range varies with conditions and driving habits."
+      },
+      "cta": "Find a dealer",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 258891,
+        "clicks": 9901,
+        "ctr": 0.0382,
+        "conversions": 204,
+        "spend_usd": 24752.5
+      }
+    },
+    {
+      "ad_id": "CHV-01",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "channel": "social",
+      "launch_date": "2026-01-15",
+      "copy": {
+        "headline": "Same routine. No gas station.",
+        "text": "School runs, practice, groceries, then plug in at home. Up to 371 miles of estimated range. Build yours.",
+        "disclaimer": "Actual range varies with conditions and driving habits."
+      },
+      "cta": "Build yours",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 285993,
+        "clicks": 3495,
+        "ctr": 0.0122,
+        "conversions": 183,
+        "spend_usd": 3431.92
+      }
+    },
+    {
+      "ad_id": "CHV-02",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "channel": "search",
+      "launch_date": "2026-02-22",
+      "copy": {
+        "headline": "Equinox EV: Easy Switch",
+        "description": "Level 2 home charging overnight, up to 371 mi of estimated range. Build yours.",
+        "disclaimer": "Actual range varies with conditions and driving habits."
+      },
+      "cta": "Build yours",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 121231,
+        "clicks": 4809,
+        "ctr": 0.0397,
+        "conversions": 261,
+        "spend_usd": 12022.5
+      }
+    },
+    {
+      "ad_id": "CHV-03",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "channel": "email",
+      "launch_date": "2026-03-01",
+      "copy": {
+        "subject": "Switching from gas? Here's your new routine",
+        "preheader": "Plug in at home, check the charge in the myChevrolet app, and head out.",
+        "body": "If you're driving a gas SUV today, here's what changes with Equinox EV: not much, except the gas station. You still do the school runs, the practice pickups and the big grocery trip on Sunday. At night, you plug into Level 2 home charging and check the charge from the myChevrolet app. On the road, One-Pedal Driving lets you slow down by easing off the accelerator, and Regen on Demand adds a little more slowing when you need it, sending energy back to the battery. Equinox EV offers up to 371 miles of estimated range, which covers a typical week of family driving for many households. It's the same family SUV routine you know, with fewer stops. Build yours today! Actual range varies with conditions and driving habits."
+      },
+      "cta": "Build yours",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "delivered": 72676,
+        "opens": 19154,
+        "open_rate": 0.2636,
+        "clicks": 2007,
+        "click_rate": 0.0276,
+        "conversions": 52,
+        "spend_usd": 145.35
+      }
+    },
+    {
+      "ad_id": "CHV-04",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "channel": "social",
+      "launch_date": "2026-04-08",
+      "copy": {
+        "headline": "Unleash the REVOLUTIONARY Equinox EV!",
+        "text": "Never worry about range. It basically drives itself on any road!"
+      },
+      "cta": "Build yours",
+      "on_brand": false,
+      "approved": false,
+      "metrics": {
+        "impressions": 134698,
+        "clicks": 753,
+        "ctr": 0.0056,
+        "conversions": 17,
+        "spend_usd": 1616.38
+      }
+    },
+    {
+      "ad_id": "CHV-05",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "channel": "social",
+      "launch_date": "2026-05-15",
+      "copy": {
+        "headline": "Friday downtown. Saturday on the field.",
+        "text": "Blazer EV has the look for date night and the room for the whole team. Build yours."
+      },
+      "cta": "Build yours",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 288322,
+        "clicks": 3352,
+        "ctr": 0.0116,
+        "conversions": 122,
+        "spend_usd": 3459.86
+      }
+    },
+    {
+      "ad_id": "CHV-06",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "channel": "search",
+      "launch_date": "2026-06-22",
+      "copy": {
+        "headline": "Blazer EV: Bold and Roomy",
+        "description": "Sporty style with space for people and gear. Find a dealer."
+      },
+      "cta": "Find a dealer",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 105100,
+        "clicks": 4849,
+        "ctr": 0.0461,
+        "conversions": 131,
+        "spend_usd": 12122.5
+      }
+    },
+    {
+      "ad_id": "CHV-07",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "channel": "email",
+      "launch_date": "2026-07-01",
+      "copy": {
+        "subject": "Weekend plans, meet Blazer EV",
+        "preheader": "Room for the team, the gear and a stop for dinner on the way home.",
+        "body": "Early Saturday: three kids, two coolers and a folding chair for every parent on the sideline. Blazer EV has the room for all of it and still looks sharp in the parking lot. Around town, One-Pedal Driving makes stop-and-go easy. Ease off the accelerator and Blazer EV slows down on its own, sending energy back to the battery. After the last game, stop for dinner on the way home, then plug into Level 2 home charging overnight and check the charge from the myChevrolet app in the morning. Blazer EV offers up to 253 miles of estimated range, plenty for a full day of driving between fields. Bold enough for Friday night, practical enough for Saturday morning. Build yours. Actual range varies with conditions and driving habits."
+      },
+      "cta": "Build yours",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "delivered": 64243,
+        "opens": 16255,
+        "open_rate": 0.253,
+        "clicks": 1875,
+        "click_rate": 0.0292,
+        "conversions": 40,
+        "spend_usd": 128.49
+      }
+    },
+    {
+      "ad_id": "CHV-08",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "channel": "search",
+      "launch_date": "2026-08-08",
+      "copy": {
+        "headline": "Silverado EV: Power on Site",
+        "description": "Run your tools from available bed outlets, then drive home electric. Find a dealer."
+      },
+      "cta": "Find a dealer",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 301371,
+        "clicks": 11801,
+        "ctr": 0.0392,
+        "conversions": 609,
+        "spend_usd": 29502.5
+      }
+    },
+    {
+      "ad_id": "CHV-09",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "channel": "social",
+      "launch_date": "2026-09-15",
+      "copy": {
+        "headline": "Tow it. Power it. Drive home.",
+        "text": "Silverado EV tows the trailer and runs your tools on site, when properly equipped. See offers."
+      },
+      "cta": "See offers",
+      "on_brand": true,
+      "approved": true,
+      "metrics": {
+        "impressions": 183417,
+        "clicks": 2368,
+        "ctr": 0.0129,
+        "conversions": 142,
+        "spend_usd": 2201.0
+      }
+    },
+    {
+      "ad_id": "CHV-10",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "channel": "search",
+      "launch_date": "2026-10-22",
+      "copy": {
+        "headline": "Toughest Truck, Beats Cybertruck",
+        "description": "Indestructible, self-driving and the cheapest EV truck around."
+      },
+      "cta": "Find a dealer",
+      "on_brand": false,
+      "approved": false,
+      "metrics": {
+        "impressions": 136982,
+        "clicks": 2742,
+        "ctr": 0.02,
+        "conversions": 65,
+        "spend_usd": 6855.0
+      }
+    }
+  ]
+}

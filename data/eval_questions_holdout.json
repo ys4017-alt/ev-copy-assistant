@@ -1,0 +1,27 @@
+{
+  "note": "Held-out retrieval test set, written after the router was tuned on eval_questions.json and graded once without further tuning. Same format as eval_questions.json.",
+  "questions": [
+    {"id": "HT01", "brand": "Tesla", "route": "technical", "query": "Model Y: the car records video if someone bumps it in the mall parking lot", "relevant": ["card:TSL-MY-security_camera"]},
+    {"id": "HT02", "brand": "Tesla", "route": "technical", "query": "Cybertruck drives faster to the next charger because it heats the battery on the way", "relevant": ["card:TSL-CT-fast_charging", "card:TSL-CT-route_planning", "card:TSL-CT-preconditioning"]},
+    {"id": "HT03", "brand": "Tesla", "route": "technical", "query": "Spend the night inside the car at a campsite with the heat running", "relevant": ["feature:climate_parked"]},
+    {"id": "HT04", "brand": "Tesla", "route": "technical", "query": "Model 3 charges when electricity is cheapest overnight", "relevant": ["card:TSL-M3-scheduled_charging"]},
+    {"id": "HT05", "brand": "Tesla", "route": "technical", "query": "Where is the plug on the Cybertruck and how do I open it?", "relevant": ["card:TSL-CT-charging_how_to"]},
+    {"id": "HT06", "brand": "Tesla", "route": "brand", "query": "Is it okay to say the car is the best SUV ever made?", "relevant": ["guide:3.3", "guide:4"]},
+    {"id": "HT07", "brand": "Tesla", "route": "brand", "query": "How long should the body of a promotional email be?", "relevant": ["guide:6.3"]},
+    {"id": "HT08", "brand": "Tesla", "route": "industry", "query": "How do electric vehicles in general handle braking energy recovery?", "relevant": ["feature:regen_braking"]},
+
+    {"id": "HH01", "brand": "Hyundai", "route": "technical", "query": "IONIQ 6 cruise control that slows for curves using the map", "relevant": ["card:HYU-I6-adaptive_cruise"]},
+    {"id": "HH02", "brand": "Hyundai", "route": "technical", "query": "Kona Electric gets updates without a dealer visit", "relevant": ["card:HYU-KE-software_updates"]},
+    {"id": "HH03", "brand": "Hyundai", "route": "technical", "query": "Charging cable you can carry in the trunk and use at home", "relevant": ["feature:home_charging"]},
+    {"id": "HH04", "brand": "Hyundai", "route": "technical", "query": "IONIQ 5 can it tow a small trailer?", "relevant": ["card:HYU-I5-towing"]},
+    {"id": "HH05", "brand": "Hyundai", "route": "brand", "query": "Can our copy say zero emissions?", "relevant": ["guide:3.1", "guide:3.3"]},
+    {"id": "HH06", "brand": "Hyundai", "route": "brand", "query": "What makes a good versus a bad social ad for IONIQ 5?", "relevant": ["guide:7.1", "guide:7", "guide:6.1"]},
+
+    {"id": "HC01", "brand": "Chevrolet", "route": "technical", "query": "Silverado EV backing up to a trailer hitch with camera help", "relevant": ["card:CHV-SV-towing"]},
+    {"id": "HC02", "brand": "Chevrolet", "route": "technical", "query": "Set the battery to stop charging at a chosen level", "relevant": ["feature:scheduled_charging"]},
+    {"id": "HC03", "brand": "Chevrolet", "route": "technical", "query": "Blazer EV keeps a safe gap to the truck ahead on the freeway", "relevant": ["card:CHV-BZ-adaptive_cruise"]},
+    {"id": "HC04", "brand": "Chevrolet", "route": "technical", "query": "Equinox EV finds a public charging station on the map", "relevant": ["card:CHV-EQ-route_planning"]},
+    {"id": "HC05", "brand": "Chevrolet", "route": "brand", "query": "Should we say Super Cruise drives the truck by itself?", "relevant": ["guide:3.2", "guide:3.3", "guide:3.1"]},
+    {"id": "HC06", "brand": "Chevrolet", "route": "brand", "query": "We want a fun line comparing our truck to a Cybertruck. Okay?", "relevant": ["guide:3.3", "guide:4", "guide:1.3"]}
+  ]
+}

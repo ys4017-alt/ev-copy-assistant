@@ -1,0 +1,314 @@
+{
+  "note": "Labels for calibrating the grounding judge. Each claim comes from step-3 output (source 'generated') unless marked 'constructed'. supported = the claim is backed by the cards that were in the basket (listed) or by the model's spec row; true-but-not-in-basket counts as unsupported. Drafted by Claude, to be reviewed by the user.",
+  "claims": [
+    {
+      "id": "J01",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "cards": [
+        "TSL-MY-route_planning",
+        "TSL-MY-scheduled_charging",
+        "TSL-MY-fast_charging"
+      ],
+      "claim": "Trip Planner adds Supercharger stops and suggests charge time, so the route stays on schedule.",
+      "supported": true,
+      "reason": "route_planning card",
+      "source": "generated"
+    },
+    {
+      "id": "J02",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "cards": [
+        "TSL-MY-route_planning",
+        "TSL-MY-scheduled_charging",
+        "TSL-MY-fast_charging"
+      ],
+      "claim": "Schedule your departure and Trip Planner inserts Supercharger stops; the car keeps the battery ready.",
+      "supported": true,
+      "reason": "route_planning + scheduled_charging cards",
+      "source": "generated"
+    },
+    {
+      "id": "J03",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "cards": [
+        "TSL-CT-power_outlets",
+        "TSL-CT-energy_tips",
+        "TSL-CT-climate_parked"
+      ],
+      "claim": "You switch on the bed outlet from the touchscreen and the cordless drill runs as if it were plugged into a generator.",
+      "supported": true,
+      "reason": "power_outlets: switched on from touchscreen, runs power tools",
+      "source": "generated"
+    },
+    {
+      "id": "J04",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "cards": [
+        "TSL-CT-power_outlets",
+        "TSL-CT-energy_tips",
+        "TSL-CT-climate_parked"
+      ],
+      "claim": "The same outlet powers a compressor.",
+      "supported": true,
+      "reason": "power_outlets mentions compressors",
+      "source": "generated"
+    },
+    {
+      "id": "J05",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "cards": [
+        "TSL-CT-power_outlets",
+        "TSL-CT-energy_tips",
+        "TSL-CT-climate_parked"
+      ],
+      "claim": "Powershare Home Backup can keep a home running during an outage.",
+      "supported": true,
+      "reason": "power_outlets card",
+      "source": "generated"
+    },
+    {
+      "id": "J06",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "cards": [
+        "TSL-CT-power_outlets",
+        "TSL-CT-energy_tips",
+        "TSL-CT-climate_parked"
+      ],
+      "claim": "At the end of the day, the truck charges overnight on a Wall Connector.",
+      "supported": false,
+      "reason": "no home-charging card in the basket",
+      "source": "generated"
+    },
+    {
+      "id": "J07",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "cards": [
+        "TSL-CT-power_outlets",
+        "TSL-CT-energy_tips",
+        "TSL-CT-climate_parked"
+      ],
+      "claim": "The bed's high-voltage outlet runs a portable welder.",
+      "supported": false,
+      "reason": "card names power tools and compressors, not welders",
+      "source": "generated"
+    },
+    {
+      "id": "J08",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "cards": [
+        "TSL-CT-power_outlets",
+        "TSL-CT-energy_tips",
+        "TSL-CT-climate_parked"
+      ],
+      "claim": "Camp Mode leaves the screen and USB ports live.",
+      "supported": true,
+      "reason": "climate_parked card",
+      "source": "generated"
+    },
+    {
+      "id": "J09",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "cards": [
+        "TSL-CT-power_outlets",
+        "TSL-CT-energy_tips",
+        "TSL-CT-climate_parked"
+      ],
+      "claim": "Cybertruck gets to 60 mph in about 7 seconds.",
+      "supported": true,
+      "reason": "spec acceleration_0_60_mph 7.31",
+      "source": "generated"
+    },
+    {
+      "id": "J10",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "cards": [
+        "HYU-I5-power_outlets",
+        "HYU-I5-climate_parked",
+        "HYU-I5-scheduled_charging"
+      ],
+      "claim": "Use V2L to run devices while you camp; it lowers range.",
+      "supported": true,
+      "reason": "power_outlets card",
+      "source": "generated"
+    },
+    {
+      "id": "J11",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "cards": [
+        "HYU-I5-power_outlets",
+        "HYU-I5-climate_parked",
+        "HYU-I5-scheduled_charging"
+      ],
+      "claim": "Utility Mode lets you run lights and audio while parked, keeping the car in Park.",
+      "supported": true,
+      "reason": "climate_parked card",
+      "source": "generated"
+    },
+    {
+      "id": "J12",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "cards": [
+        "HYU-KE-route_planning",
+        "HYU-KE-advanced_driver_assist",
+        "HYU-KE-steering_assist"
+      ],
+      "claim": "Your phone shows nearby DC stations and starts battery conditioning so you arrive ready.",
+      "supported": false,
+      "reason": "the car's EV menu lists stations, not the phone",
+      "source": "generated"
+    },
+    {
+      "id": "J13",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "cards": [
+        "HYU-KE-route_planning",
+        "HYU-KE-advanced_driver_assist",
+        "HYU-KE-steering_assist"
+      ],
+      "claim": "Highway Driving Assist and Lane Following Assist help keep you centered in your lane.",
+      "supported": true,
+      "reason": "advanced_driver_assist + steering_assist cards",
+      "source": "generated"
+    },
+    {
+      "id": "J14",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "cards": [
+        "CHV-EQ-advanced_driver_assist",
+        "CHV-EQ-cargo_space",
+        "CHV-EQ-towing"
+      ],
+      "claim": "One-Pedal Driving lets you slow down as you ease off the pedal, sending energy back to the battery.",
+      "supported": false,
+      "reason": "no regen card in the basket",
+      "source": "generated"
+    },
+    {
+      "id": "J15",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "cards": [
+        "CHV-EQ-advanced_driver_assist",
+        "CHV-EQ-cargo_space",
+        "CHV-EQ-towing"
+      ],
+      "claim": "The rear seatbacks fold forward, giving you a roomy 44 cubic-foot cargo area.",
+      "supported": true,
+      "reason": "cargo_space card + spec cargo_volume_cubic_ft 44.4",
+      "source": "generated"
+    },
+    {
+      "id": "J16",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "cards": [
+        "CHV-EQ-advanced_driver_assist",
+        "CHV-EQ-cargo_space",
+        "CHV-EQ-towing"
+      ],
+      "claim": "At night you plug the Equinox EV into a Level 2 wall outlet and let it charge.",
+      "supported": false,
+      "reason": "no home-charging card in the basket",
+      "source": "generated"
+    },
+    {
+      "id": "J17",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "cards": [
+        "CHV-EQ-advanced_driver_assist",
+        "CHV-EQ-cargo_space",
+        "CHV-EQ-towing"
+      ],
+      "claim": "With available Super Cruise, the Equinox EV holds speed, keeps a safe gap, and stays centered in its lane on compatible roads.",
+      "supported": true,
+      "reason": "advanced_driver_assist card",
+      "source": "generated"
+    },
+    {
+      "id": "J18",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "cards": [
+        "CHV-EQ-advanced_driver_assist",
+        "CHV-EQ-cargo_space",
+        "CHV-EQ-towing"
+      ],
+      "claim": "When you turn into the store parking lot, the system hands back control.",
+      "supported": false,
+      "reason": "hand-back behavior is not in the card",
+      "source": "generated"
+    },
+    {
+      "id": "J19",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "cards": [
+        "CHV-EQ-advanced_driver_assist",
+        "CHV-EQ-cargo_space",
+        "CHV-EQ-towing"
+      ],
+      "claim": "The 371-mile estimated range covers a full day of errands.",
+      "supported": true,
+      "reason": "spec range_miles 371",
+      "source": "generated"
+    },
+    {
+      "id": "J20",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "cards": [
+        "CHV-SV-advanced_driver_assist",
+        "CHV-SV-regen_braking",
+        "CHV-SV-energy_tips"
+      ],
+      "claim": "One-Pedal Driving plus Super Cruise lets you cruise and haul.",
+      "supported": true,
+      "reason": "regen_braking (helpful when towing) + advanced_driver_assist (usable with a trailer)",
+      "source": "generated"
+    },
+    {
+      "id": "J21",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "cards": [
+        "CHV-SV-advanced_driver_assist",
+        "CHV-SV-regen_braking",
+        "CHV-SV-energy_tips"
+      ],
+      "claim": "Drive long hauls with available Super Cruise on compatible roads.",
+      "supported": true,
+      "reason": "advanced_driver_assist card",
+      "source": "generated"
+    },
+    {
+      "id": "J22",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "cards": [
+        "CHV-SV-advanced_driver_assist",
+        "CHV-SV-regen_braking",
+        "CHV-SV-energy_tips"
+      ],
+      "claim": "While you tow, Super Cruise changes lanes for you automatically.",
+      "supported": false,
+      "reason": "card: automatic lane changes are switched off with a trailer (contradiction)",
+      "source": "constructed"
+    }
+  ],
+  "status": "PROVISIONAL (2026-11-23): accepted for building the structure; final labels to be decided with the team."
+}

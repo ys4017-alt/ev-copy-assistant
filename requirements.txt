@@ -1,0 +1,10 @@
+# Runtime dependencies of the API (versions tested in the APAN environment).
+# PyTorch (needed by sentence-transformers) is installed separately as the CPU-only build; see Dockerfile.
+fastapi==0.165.0
+uvicorn==0.54.0
+pydantic==2.12.5
+openai==3.14.1
+numpy==2.4.3
+scikit-learn==1.7.2
+sentence-transformers==5.3.0
+langgraph==1.2.12

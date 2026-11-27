@@ -1,0 +1,17 @@
+{
+  "note": "Questions written by the user (fresh test set). Relevant items are set by Claude BEFORE running retrieval, then confirmed with the user. Do not tune retrieval on these and re-report them as unseen.",
+  "questions": [
+    {
+      "id": "U01",
+      "brand": "Hyundai",
+      "route": "technical",
+      "query": "Ioniq 5 ad about managing vehicle temperature by outside weather",
+      "relevant": [
+        "card:HYU-I5-preconditioning",
+        "card:HYU-I5-scheduled_charging",
+        "card:HYU-I5-cabin_climate"
+      ],
+      "note": "HYU-I5-cabin_climate added after the card was created (it did not exist when U01 was first graded)."
+    }
+  ]
+}

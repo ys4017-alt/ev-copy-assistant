@@ -1,0 +1,2363 @@
+{
+  "note": "Feature cards: short summaries of owner's manual content, written in our own words for the APAN 5560 class project. Pages are PDF page numbers in data/manuals/. No numbers on purpose: copy takes numbers from ev.db only.",
+  "cards": [
+    {
+      "card_id": "TSL-MY-home_charging",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "home_charging",
+      "title": "Charging at home",
+      "summary": "For everyday charging, Tesla sells a Wall Connector that is mounted where you park and is the quickest home option. A Mobile Connector with a smart adapter lets you charge from common household outlets instead. Adapters are also available so Model Y can use widely used public charging stations.",
+      "caution": "",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        196
+      ]
+    },
+    {
+      "card_id": "TSL-MY-fast_charging",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "fast_charging",
+      "title": "Supercharging and fast charging",
+      "summary": "Model Y can fast charge at Tesla Superchargers and at third-party fast chargers, which show up in the navigation search. Navigating to a fast charger lets the car warm its battery on the way so the session goes quicker, and charging is usually fastest when the battery starts low. At busy Supercharger sites the car can join a waitlist and notifies you when a stall is yours.",
+      "caution": "Supercharger sites may charge congestion or idle fees; do not promise free or unlimited Supercharging.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        186,
+        202,
+        204
+      ]
+    },
+    {
+      "card_id": "TSL-MY-charging_how_to",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "charging_how_to",
+      "title": "How to plug in",
+      "summary": "The charge port sits on the left rear, built into the tail light. With the car in Park, a press of the button on the Tesla charge cable opens the port door; the touchscreen, a voice command or a push on the door with your phone key nearby also work. A light around the port shows whether the car is charging, charging slowly or waiting for a scheduled start.",
+      "caution": "",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        199,
+        204
+      ]
+    },
+    {
+      "card_id": "TSL-MY-scheduled_charging",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "scheduled_charging",
+      "title": "Scheduled charging",
+      "summary": "You can tell Model Y when to charge and when you plan to leave, and the car saves a separate schedule for each place such as home or work. Setting the finish time to your departure keeps the battery warm when you need it and can lower energy costs. Schedules apply to regular charging only and are ignored at fast chargers.",
+      "caution": "",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        205
+      ]
+    },
+    {
+      "card_id": "TSL-MY-regen_braking",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "regen_braking",
+      "title": "Regenerative braking",
+      "summary": "When you lift off the accelerator, Model Y slows itself and sends the recovered energy back to the battery, so planning your stops early adds range. A Deceleration Mode setting lets you choose between the strongest slowing and a gentler mode that coasts farther. When the battery is cold or full and less energy can be recovered, the car applies the regular brakes so it still slows the same way.",
+      "caution": "The manual recommends the gentler setting on snow or ice; avoid implying the car never needs the brake pedal.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        98,
+        99
+      ]
+    },
+    {
+      "card_id": "TSL-MY-adaptive_cruise",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "adaptive_cruise",
+      "title": "Traffic-Aware Cruise Control",
+      "summary": "Traffic-Aware Cruise Control holds a chosen speed and keeps a gap to the car ahead, slowing and resuming with traffic. You set and adjust it with the right scroll wheel and cancel it with the same button or the brake pedal. It is meant for comfort on the highway, not as a collision avoidance system.",
+      "caution": "The driver must watch the road and stay in control at all times.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        125,
+        149
+      ]
+    },
+    {
+      "card_id": "TSL-MY-steering_assist",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "steering_assist",
+      "title": "Autosteer",
+      "summary": "Autosteer adds lane keeping on top of Traffic-Aware Cruise Control, so Model Y stays centered in its lane while matching the traffic ahead. Some vehicles also offer Auto Lane Change and Navigate on Autosteer for highway driving. If Autosteer switches off, the car slows gently with regenerative braking instead of coasting.",
+      "caution": "Autosteer is hands-on: hands stay on the wheel. Availability depends on region, hardware and software.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        124,
+        132,
+        149
+      ]
+    },
+    {
+      "card_id": "TSL-MY-advanced_driver_assist",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "advanced_driver_assist",
+      "title": "Full Self-Driving (Supervised)",
+      "summary": "Full Self-Driving (Supervised) tries to drive to your navigation destination, handling turns, intersections, stop signs, roundabouts and highway ramps. Unlike the highway features, it is designed for many kinds of roads, including city and residential streets. It relies on cameras around the car, which need to be clean and calibrated.",
+      "caution": "Always write the full name with (Supervised). The driver may need to take over at any time; never call it self-driving or autonomous. Not every vehicle is equipped.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        118,
+        124
+      ]
+    },
+    {
+      "card_id": "TSL-MY-route_planning",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "route_planning",
+      "title": "Trip Planner",
+      "summary": "When a destination needs a charge to reach, Trip Planner adds Supercharger stops to the route along with a suggested charging time at each one. It also estimates how much energy will be left on arrival and reroutes if a planned Supercharger has an outage. Third-party stations can be added by hand.",
+      "caution": "Availability depends on region.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        184,
+        186,
+        187
+      ]
+    },
+    {
+      "card_id": "TSL-MY-preconditioning",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "preconditioning",
+      "title": "Preconditioning",
+      "summary": "Preconditioning gets the cabin to a comfortable temperature and warms the battery before a set departure time, and Model Y works out when to start on its own. It can be scheduled from the car or the mobile app. Staying plugged in while preconditioning lets the charger, rather than the battery, supply the energy.",
+      "caution": "",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        180,
+        205
+      ]
+    },
+    {
+      "card_id": "TSL-MY-mobile_app",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "mobile_app",
+      "title": "Tesla mobile app and phone key",
+      "summary": "The Tesla mobile app lets you check on and control Model Y from an iPhone or Android phone, and your phone can be set up as a key that unlocks the car over Bluetooth. An Apple Watch can be used as a key as well. Remote features need both the phone and the car to have a cellular or Wi-Fi connection.",
+      "caution": "The manual advises keeping a physical key on hand where phone signal is weak.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        27,
+        71
+      ]
+    },
+    {
+      "card_id": "TSL-MY-software_updates",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "software_updates",
+      "title": "Software updates",
+      "summary": "Model Y receives new software over the air, which can add features over time. Updates usually download over Wi-Fi and then install when you choose, either from the touchscreen or the mobile app. A setting lets you get updates early or wait until others have installed them.",
+      "caution": "The car cannot be driven while an update installs.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        214
+      ]
+    },
+    {
+      "card_id": "TSL-MY-security_camera",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "security_camera",
+      "title": "Sentry Mode",
+      "summary": "Sentry Mode keeps the cameras and sensors watching while Model Y is locked and parked. If it detects a threat it can flash the lights, sound the alarm, alert you in the mobile app and save video to a USB drive. You can turn it off automatically at trusted places such as home or work, and with premium connectivity view the cameras live from the app.",
+      "caution": "Owners must follow local rules on camera use. Not every vehicle is equipped.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        166,
+        167
+      ]
+    },
+    {
+      "card_id": "TSL-MY-climate_parked",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "climate_parked",
+      "title": "Keep Climate On, Pet Mode and Camp Mode",
+      "summary": "These modes keep the heating or cooling running while Model Y is in Park. Keep Climate On protects things like groceries, Pet Mode shows the cabin temperature on the screen so passers-by know a pet is comfortable, and Camp Mode is for staying inside the car, with media and climate available. Cabin Overheat Protection separately keeps a parked cabin from getting too hot.",
+      "caution": "Never suggest leaving a child alone in the car; pets need to be checked often.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        172,
+        173
+      ]
+    },
+    {
+      "card_id": "TSL-MY-cargo_space",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "cargo_space",
+      "title": "Seats and cargo",
+      "summary": "Model Y has a front trunk as well as a rear cargo area with a lower compartment for heavy items. The rear seats fold down, and the cargo cover can be flipped and set on support legs to make a flat floor that works for camping. Some configurations add a third row of seats.",
+      "caution": "Seat count and cargo volume differ by configuration; take numbers from ev.db, not from this card.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        34,
+        49,
+        245
+      ]
+    },
+    {
+      "card_id": "TSL-MY-towing",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "towing",
+      "title": "Towing",
+      "summary": "Model Y can pull a trailer when equipped with a hitch, and Trailer Mode adjusts the car for towing once the trailer is connected. The manual describes Model Y as mainly a passenger vehicle and notes that towing changes handling and braking and cuts range noticeably.",
+      "caution": "Do not present Model Y as a work or towing vehicle; mention reduced range if towing appears in copy.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        113,
+        114
+      ]
+    },
+    {
+      "card_id": "TSL-MY-energy_tips",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "energy_tips",
+      "title": "Energy use and range",
+      "summary": "The Energy app compares how much energy different drives used and how much the car used while parked, with tips to cut waste. Projected range is based on your recent driving rather than a fixed figure, so routes, habits and weather all change it. Low Power Mode saves energy by turning off features such as Sentry Mode and preconditioning when the charge gets low.",
+      "caution": "Cold weather and climate use reduce range; keep range claims as estimates.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        170,
+        208
+      ]
+    },
+    {
+      "card_id": "TSL-M3-home_charging",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "home_charging",
+      "title": "Charging at home",
+      "summary": "Tesla's Wall Connector is installed at your parking spot and is the quickest way to charge the car day to day. The Mobile Connector, fitted with a smart adapter, plugs into ordinary household outlets instead. Tesla also sells adapters for the public charging stations most common in your region.",
+      "caution": "",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        183
+      ]
+    },
+    {
+      "card_id": "TSL-M3-fast_charging",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "fast_charging",
+      "title": "Supercharging and fast charging",
+      "summary": "The car can fast charge at Tesla Superchargers and at third-party fast chargers, which can be shown on the map and in the charger search. Setting a fast charger as the destination lets the car warm its battery during the drive, and sessions tend to be quicker when the battery starts low. Busy Supercharger sites may offer a waitlist that holds your place in line.",
+      "caution": "Supercharger sites may charge congestion or idle fees. Some vehicles lack the hardware for certain third-party DC fast chargers or need an adapter; do not promise every station works.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        173,
+        189,
+        190,
+        191
+      ]
+    },
+    {
+      "card_id": "TSL-M3-charging_how_to",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "charging_how_to",
+      "title": "How to plug in",
+      "summary": "The charge port is on the left side, behind a door built into the rear tail light. In Park, pressing the button on the Tesla charge cable opens the door; the touchscreen, a voice command, the optional key fob or a press on the door with your phone key nearby also work. The light around the port changes color to show whether the car is charging, waiting on a schedule, charging at reduced current or reporting a fault.",
+      "caution": "",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        186,
+        187
+      ]
+    },
+    {
+      "card_id": "TSL-M3-scheduled_charging",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "scheduled_charging",
+      "title": "Scheduled charging",
+      "summary": "You can set times for the car to start and finish charging, and it keeps a separate schedule for each location such as home or work. Tesla suggests ending the charge at your departure time so the battery is still warm when you leave, which can cut energy use. A charge limit slider sets how full the battery gets, and schedules are ignored at fast chargers.",
+      "caution": "",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        189,
+        192
+      ]
+    },
+    {
+      "card_id": "TSL-M3-regen_braking",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "regen_braking",
+      "title": "Regenerative braking",
+      "summary": "Lifting off the accelerator makes the car slow down and return the recovered energy to the battery, so easing off early for stops adds range. Less energy can be recovered when the battery is cold or already full. A setting can apply the regular brakes in those moments so the car slows the same way each time.",
+      "caution": "The manual warns of possible traction loss on snow or ice and says to always be ready to use the brake pedal. This manual does not describe a Deceleration Mode setting for this car.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        80,
+        81
+      ]
+    },
+    {
+      "card_id": "TSL-M3-adaptive_cruise",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "adaptive_cruise",
+      "title": "Traffic-Aware Cruise Control",
+      "summary": "Traffic-Aware Cruise Control keeps a set speed and, when a vehicle is ahead, a chosen following gap, speeding up and slowing down with traffic. The right scroll wheel sets and adjusts it, and the same button or the brake pedal cancels it. When it cancels, the car slows with regenerative braking rather than coasting.",
+      "caution": "It is a comfort feature, not a collision avoidance system; the driver must watch the road and stay in control at all times.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        111,
+        112,
+        114
+      ]
+    },
+    {
+      "card_id": "TSL-M3-steering_assist",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "steering_assist",
+      "title": "Autosteer",
+      "summary": "Autosteer builds on Traffic-Aware Cruise Control by reading lane markings, road edges and nearby vehicles to keep the car in its lane. With Auto Lane Change, a tap of the turn signal moves the car into the next lane when it is clear. Navigate on Autosteer can suggest or make lane changes to pass slower traffic and follow a navigation route on highways.",
+      "caution": "Autosteer is hands-on: hands stay on the wheel. The manual labels Autosteer and Navigate on Autosteer as beta. Availability depends on region, hardware and software.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        115,
+        116,
+        117
+      ]
+    },
+    {
+      "card_id": "TSL-M3-advanced_driver_assist",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "advanced_driver_assist",
+      "title": "Full Self-Driving (Supervised)",
+      "summary": "Full Self-Driving (Supervised) attempts to drive to your destination, handling curves, intersections, turns, roundabouts and highway entries and exits. It is intended for many kinds of roads, including city and residential streets, rather than only marked multi-lane roads. It depends on cameras around the car, which must be clean and calibrated, and a cabin camera checks that the driver is paying attention.",
+      "caution": "Always write the full name with (Supervised). The driver must stay attentive and be ready to take over at any time; never call it self-driving or autonomous. Not every vehicle is equipped, depending on region, hardware and software.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        104,
+        105
+      ]
+    },
+    {
+      "card_id": "TSL-M3-route_planning",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "route_planning",
+      "title": "Trip Planner",
+      "summary": "When a destination is too far for the current charge, Trip Planner adds Supercharger stops to the route with a recommended charging time at each. It estimates the energy left on arrival at each stop and adjusts later stops if you charge longer or shorter. If a planned Supercharger has an outage, it tries to reroute to another site, and third-party stations can be added by hand.",
+      "caution": "Availability depends on region.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        172,
+        175
+      ]
+    },
+    {
+      "card_id": "TSL-M3-preconditioning",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "preconditioning",
+      "title": "Preconditioning",
+      "summary": "With Precondition, you set a departure time and the car works out when to begin warming the battery and bringing the cabin to temperature. It can be scheduled from the car or the Tesla mobile app. Navigating to a Supercharger also warms the battery on the way so charging takes less time.",
+      "caution": "When unplugged, preconditioning does not run in Low Power Mode.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        172,
+        192
+      ]
+    },
+    {
+      "card_id": "TSL-M3-mobile_app",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "mobile_app",
+      "title": "Tesla mobile app and phone key",
+      "summary": "The Tesla mobile app lets you lock and unlock the car, run the climate, check charging and see where it is parked from an iPhone or Android phone. A phone set up as a phone key unlocks the car over Bluetooth as you approach and can lock it as you walk away, and an Apple Watch can also serve as a key. Remote commands need both the phone and the car to be online over cellular or Wi-Fi.",
+      "caution": "The manual advises keeping a physical key on hand where phone signal is weak, such as indoor garages.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        22,
+        53
+      ]
+    },
+    {
+      "card_id": "TSL-M3-software_updates",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "software_updates",
+      "title": "Software updates",
+      "summary": "The car gets new software over the air, which can bring new features. Updates normally download over Wi-Fi and install when you choose, from the touchscreen or the Tesla mobile app. A preference lets you receive releases sooner or wait until others have installed them.",
+      "caution": "The car cannot be driven while an update installs.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        201
+      ]
+    },
+    {
+      "card_id": "TSL-M3-security_camera",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "security_camera",
+      "title": "Sentry Mode",
+      "summary": "Sentry Mode keeps the cameras watching while the car is locked and in Park. When it senses a threat it can pulse the headlights, sound the alarm, notify you in the mobile app and save video to a USB drive. It can be set to stay off at home, work or favorite places, and with premium connectivity you can view the cameras live from the app.",
+      "caution": "Owners must follow local rules on camera use. Not every vehicle is equipped, and Sentry Mode can increase energy use.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        154,
+        155
+      ]
+    },
+    {
+      "card_id": "TSL-M3-climate_parked",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "climate_parked",
+      "title": "Keep Climate On, Pet Mode and Camp Mode",
+      "summary": "These settings keep the heating or air conditioning running while the car is in Park. Keep Climate On suits things like groceries, Pet Mode displays the cabin temperature on the screen so passers-by can see the pet is comfortable, and Camp Mode is for staying inside the car. In Camp Mode the screen stays on for media and the USB ports and low voltage outlet keep working.",
+      "caution": "Never suggest leaving a child alone in the car; Pet Mode is for short periods with the owner nearby and checking the app.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        160
+      ]
+    },
+    {
+      "card_id": "TSL-M3-power_outlets",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "power_outlets",
+      "title": "Powering devices and home backup",
+      "summary": "With the Tesla Outlet Adapter accessory plugged into the charge port, the car can run small and medium appliances or tools, including during a power cut. Powershare Home Backup lets the car supply a home through a compatible Wall Connector setup when grid power fails, stopping at a discharge limit you choose.",
+      "caution": "The adapter is sold separately and works only where available for the vehicle configuration; Powershare needs supported home equipment. Running devices drains the battery. Unlike Cybertruck, the car has no built-in power outlets.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        197,
+        199
+      ]
+    },
+    {
+      "card_id": "TSL-M3-towing",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "towing",
+      "title": "Towing",
+      "summary": "With the towing package, the car can pull a trailer or carry accessories such as bike or ski racks on its hitch, and Trailer Mode changes how some features behave while towing. The manual calls the car mainly a passenger vehicle and says towing changes steering, stability and braking and cuts range considerably.",
+      "caution": "Do not present this car as a work or towing vehicle; mention reduced range if towing appears in copy. Towing needs the optional package.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        97,
+        100
+      ]
+    },
+    {
+      "card_id": "TSL-M3-cargo_space",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "cargo_space",
+      "title": "Trunks and cargo",
+      "summary": "The car has a front trunk as well as a rear trunk with a lower compartment meant for heavier items. The split rear seat folds forward for longer loads. Some vehicles have a powered rear trunk whose opening height can be saved.",
+      "caution": "Cargo volume and load limits come from ev.db, not from this card.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        31,
+        33,
+        37
+      ]
+    },
+    {
+      "card_id": "TSL-M3-energy_tips",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "energy_tips",
+      "title": "Energy use and range",
+      "summary": "The Energy app shows how much energy drives and parked time used, with range tips for each drive. Projected range is worked out from your own recent consumption, so speed, weather, climate use and cargo all change it. Low Power Mode saves energy at low charge by switching off features such as Sentry Mode and preconditioning.",
+      "caution": "Cold weather and climate use reduce range; keep range claims as estimates.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        194,
+        195
+      ]
+    },
+    {
+      "card_id": "TSL-CT-home_charging",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "home_charging",
+      "title": "Charging at home",
+      "summary": "Tesla's Wall Connector mounts at your parking spot and is the quickest daily charging option for Cybertruck. The Mobile Connector with a smart adapter plugs into common household outlets, and adapters cover the usual public charging stations. For travel, the manual points to Superchargers and other fast and destination chargers.",
+      "caution": "",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        189
+      ]
+    },
+    {
+      "card_id": "TSL-CT-fast_charging",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "fast_charging",
+      "title": "Supercharging and fast charging",
+      "summary": "Cybertruck can fast charge at Tesla Superchargers and at third-party fast chargers, and navigating to one warms the battery on the way for a quicker session. Charging is usually faster when the battery starts low. The charger map flags trailer-friendly Supercharger sites with pull-through stalls, listing them first when Trailer Mode is on.",
+      "caution": "Supercharger sites may charge congestion or idle fees, and busy sites may cap the charge level; do not promise free or unlimited Supercharging.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        179,
+        195,
+        197
+      ]
+    },
+    {
+      "card_id": "TSL-CT-charging_how_to",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "charging_how_to",
+      "title": "How to plug in",
+      "summary": "The charge port sits above the rear wheel on the driver's side. In Park with a key nearby, pressing the button on the Tesla charge cable opens the door; the touchscreen, the mobile app, a voice command or a press on the door with your phone key nearby also work. The Cybertruck icon by the port lights up and pulses green while charging, turning solid green when done.",
+      "caution": "",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        192
+      ]
+    },
+    {
+      "card_id": "TSL-CT-scheduled_charging",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "scheduled_charging",
+      "title": "Scheduled charging",
+      "summary": "You can tell Cybertruck when to start and stop charging, and it remembers a schedule for each location such as home or work. Tesla recommends finishing the charge at your departure time so the battery does not cool off first, which can lower energy use. Schedules apply only to regular charging and are skipped at fast chargers.",
+      "caution": "",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        198
+      ]
+    },
+    {
+      "card_id": "TSL-CT-regen_braking",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "regen_braking",
+      "title": "Regenerative braking",
+      "summary": "Easing off the accelerator slows Cybertruck and sends recovered energy back to the battery. A setting can bring in the regular brakes when a cold or full battery limits regeneration, though not while Trailer Mode is on. Among the off-road settings, Deceleration Mode offers a High choice for stronger one-pedal slowing and a Standard choice that keeps grip on loose ground.",
+      "caution": "The manual warns that the High setting can reduce traction on snow or loose surfaces; avoid implying the brake pedal is never needed.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        90,
+        107
+      ]
+    },
+    {
+      "card_id": "TSL-CT-adaptive_cruise",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "adaptive_cruise",
+      "title": "Traffic-Aware Cruise Control",
+      "summary": "Traffic-Aware Cruise Control holds a set speed and an adjustable following gap to the vehicle ahead, slowing and speeding up with traffic. It is engaged and adjusted with the right scroll button and wheel and cancelled with the same button or the brake pedal. It cannot be used while Full Self-Driving (Supervised) is enabled.",
+      "caution": "It is a comfort feature, not a collision avoidance system; the driver must watch the road and stay in control at all times.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        130
+      ]
+    },
+    {
+      "card_id": "TSL-CT-advanced_driver_assist",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "advanced_driver_assist",
+      "title": "Full Self-Driving (Supervised)",
+      "summary": "Full Self-Driving (Supervised) attempts to drive Cybertruck to a destination, following curves, handling intersections and turns, and taking roundabouts and highway ramps. It is meant for many road types, including city and residential streets, and relies on cameras around the truck that must be clean and calibrated. A cabin camera monitors whether the driver is paying attention.",
+      "caution": "Always write the full name with (Supervised). The manual says it does not make Cybertruck autonomous; the driver must stay attentive and ready to act. Not every vehicle is equipped, depending on region, hardware and software.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        123,
+        128
+      ]
+    },
+    {
+      "card_id": "TSL-CT-route_planning",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "route_planning",
+      "title": "Trip Planner",
+      "summary": "If a destination needs charging to reach, Trip Planner routes Cybertruck through Supercharger stops and suggests how long to charge at each. It shows the energy expected on arrival and adjusts later stops if a charge runs longer or shorter. If a planned Supercharger goes down, it tries to reroute, and trailer-friendly sites can be found on the charger map.",
+      "caution": "Availability depends on region.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        179,
+        180,
+        181
+      ]
+    },
+    {
+      "card_id": "TSL-CT-preconditioning",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "preconditioning",
+      "title": "Preconditioning",
+      "summary": "Precondition lets you set a departure time, and Cybertruck decides when to start warming the battery and the cabin so both are ready. A preconditioned truck uses less energy at the start of a drive, and with a heat pump battery heat can help warm the cabin. Navigating to a fast charger also warms the battery so charging goes quicker.",
+      "caution": "",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        197,
+        198,
+        199
+      ]
+    },
+    {
+      "card_id": "TSL-CT-mobile_app",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "mobile_app",
+      "title": "Tesla mobile app and phone key",
+      "summary": "The Tesla mobile app lets you lock or unlock Cybertruck, open the doors and tailgate, run the climate and check charging from an iPhone or Android phone. A phone set up as a phone key unlocks the truck over Bluetooth as you approach, and an Apple Watch can act as a key too. Remote control needs both the phone and the truck to be online over cellular or Wi-Fi.",
+      "caution": "The manual advises keeping a physical key handy where signal is weak, such as indoor garages.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        30,
+        66
+      ]
+    },
+    {
+      "card_id": "TSL-CT-software_updates",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "software_updates",
+      "title": "Software updates",
+      "summary": "Cybertruck receives software over the air, which can add new features. Updates usually download over Wi-Fi and install when you pick, from the touchscreen or the Tesla mobile app. A preference sets whether you get releases early or after others have them.",
+      "caution": "The truck cannot be driven while an update installs.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        212
+      ]
+    },
+    {
+      "card_id": "TSL-CT-security_camera",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "security_camera",
+      "title": "Sentry Mode",
+      "summary": "Sentry Mode keeps the cameras ready to record while Cybertruck is locked and in Park. If it senses a threat or the truck is shaken or towed, it can pulse the headlights, sound the alarm, notify you in the mobile app and save video to a USB drive. It can be told not to turn on at home, work or favorite places.",
+      "caution": "Owners must follow local rules on camera use. Not every vehicle is equipped, and Sentry Mode can increase energy use.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        161,
+        162
+      ]
+    },
+    {
+      "card_id": "TSL-CT-climate_parked",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "climate_parked",
+      "title": "Keep Climate On, Pet Mode and Camp Mode",
+      "summary": "These settings keep the climate system running while Cybertruck is in Park. Keep Climate On holds a set temperature for things like groceries, Pet Mode shows the cabin temperature on the screen for passers-by, and Camp Mode keeps the screen, media and USB and low voltage power on for staying inside. Cabin Overheat Protection separately keeps a parked cabin from getting too hot.",
+      "caution": "Never suggest leaving a child alone in the truck; pets need frequent checks through the app.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        168,
+        169
+      ]
+    },
+    {
+      "card_id": "TSL-CT-power_outlets",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "power_outlets",
+      "title": "Power outlets",
+      "summary": "Depending on configuration, Cybertruck has AC power outlets in the cargo bed, including a higher-voltage one, plus outlets in the center console, all switched on from the touchscreen or mobile app. A Keep Outlets On setting lets them run after you leave, and they can start power tools and compressors. Through Powershare Home Backup, the truck can also power a home with compatible equipment during a grid outage.",
+      "caution": "Not every vehicle has bed or cabin outlets. Outlets drain the high voltage battery and shut off when charge is very low; take power ratings from ev.db, not this card.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        23,
+        202,
+        206
+      ]
+    },
+    {
+      "card_id": "TSL-CT-towing",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "towing",
+      "title": "Towing",
+      "summary": "Cybertruck tows with Trailer Mode on, and has a built-in trailer brake controller that applies the trailer brakes as you slow, with adjustable gain and a trailer light test. Trailer profiles with the trailer's weight and size help the truck estimate energy use on the way. The manual notes that towing adds load, changes steering and braking and noticeably lowers range.",
+      "caution": "Mention reduced range if towing appears in copy. Towing capacity varies by configuration; take numbers from ev.db.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        114,
+        115,
+        116
+      ]
+    },
+    {
+      "card_id": "TSL-CT-cargo_space",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "cargo_space",
+      "title": "Bed, tonneau and frunk",
+      "summary": "Cybertruck carries cargo in a powered front trunk and an open bed behind the cab. Depending on configuration, the bed has a powered tonneau cover, tie-downs and L-tracks, and a sealed compartment under the floor. The tonneau keeps out most rain and snow but the bed is not fully waterproof.",
+      "caution": "Never suggest riding in the bed. Bed size and load limits come from ev.db, not from this card.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        59,
+        62
+      ]
+    },
+    {
+      "card_id": "TSL-CT-energy_tips",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "energy_tips",
+      "title": "Energy use and range",
+      "summary": "The Energy app tracks energy used while driving and while parked, with range tips tailored to each drive. Range predictions learn from how this truck is driven and factor in weather such as wind and temperature. Low Power Mode saves energy at low charge by turning off features such as the bed and cabin outlets and Sentry Mode.",
+      "caution": "Towing, cold weather and climate use reduce range; keep range claims as estimates.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        180,
+        201
+      ]
+    },
+    {
+      "card_id": "HYU-I5-home_charging",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "home_charging",
+      "title": "Charging at home",
+      "summary": "At home the car charges from a professionally installed Level 2 AC charger, which the manual calls the most common way to charge. A dual-voltage portable charging cable (ICCB) comes with the vehicle for standard or higher-voltage household outlets when no dedicated charger is available. The charge port follows the North American Charging Standard (NACS), and adapters let the car use public stations with other connector types.",
+      "caution": "Use the portable charger only with a grounded outlet and never with extension cords or multi-outlets.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        22,
+        30,
+        39,
+        40
+      ]
+    },
+    {
+      "card_id": "HYU-I5-fast_charging",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "fast_charging",
+      "title": "DC charging and Plug n Charge",
+      "summary": "For shorter stops the car charges at high speed from DC chargers at public stations, including CCS stations through the supplied adapter. With Plug n Charge turned on and a valid contract, starting a DC session only requires plugging in, with payment handled through the contract. Certain other-brand NACS chargers may fail to talk to the car correctly, so the manual points owners to the adapter and the CCS cable at those sites.",
+      "caution": "The manual advises AC charging for routine use because constant DC charging can reduce battery performance and life. Do not promise that every NACS charger works with the car.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        22,
+        32,
+        33,
+        62,
+        63
+      ]
+    },
+    {
+      "card_id": "HYU-I5-charging_how_to",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "charging_how_to",
+      "title": "How to plug in",
+      "summary": "With the car in Park and the doors unlocked, the charging door opens with a press on its symbol or with a button on the instrument panel; the button on a NACS charging connector does not open it. Push the connector in until it clicks, and the instrument cluster briefly shows how long charging should take. To unplug, unlock the doors, press the release button on the connector, pull it out and press the close button on the charging door.",
+      "caution": "The gear cannot be moved out of Park while the car is charging.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        24,
+        32,
+        33,
+        48
+      ]
+    },
+    {
+      "card_id": "HYU-I5-scheduled_charging",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "scheduled_charging",
+      "title": "Scheduled Charging and departure time",
+      "summary": "Scheduled Charging lets the car wait and charge on lower-cost overnight electricity before your next departure, and it works with AC chargers and the portable cable only. A Next Departure Time setting pairs the schedule with a target cabin temperature, and the climate system draws on the charger instead of the battery. Schedules can be set or cancelled in the EV menu or from the MyHyundai (Bluelink) app.",
+      "caution": "Schedules do not apply at DC chargers, and charging may not begin right away when a schedule is set.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        48,
+        49,
+        55,
+        56
+      ]
+    },
+    {
+      "card_id": "HYU-I5-regen_braking",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "regen_braking",
+      "title": "Regenerative braking, i-PEDAL and Smart Regeneration System",
+      "summary": "Paddle shifters behind the steering wheel raise or lower how strongly the motor slows the car and recovers energy, down to a setting that lets it coast. i-PEDAL lets the driver speed up, slow down and come to a stop using only the accelerator pedal. The Smart Regeneration System adjusts regeneration on its own based on the car ahead, the slope of the road and speed cameras, but it cannot run at the same time as i-PEDAL.",
+      "caution": "The car may not stop fully with i-PEDAL on slopes or slippery roads, so the driver still uses the brake pedal. Smart Regeneration System is available (if equipped).",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        417,
+        420,
+        422,
+        423
+      ]
+    },
+    {
+      "card_id": "HYU-I5-adaptive_cruise",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "adaptive_cruise",
+      "title": "Smart Cruise Control",
+      "summary": "Smart Cruise Control keeps a set speed and a set gap to the vehicle in front, and can help accelerate when the driver pulls out to overtake. Following distance, acceleration and reaction speed can be adjusted by hand, or the system can follow your own driving style. Navigation-based Smart Cruise Control adds automatic speed changes on main highway roads using map information.",
+      "caution": "The driver keeps hands on the wheel and stays in control at all times; these are assistance features. Smart Cruise Control and Navigation-based Smart Cruise Control are available (if equipped).",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        579,
+        580,
+        604
+      ]
+    },
+    {
+      "card_id": "HYU-I5-steering_assist",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "steering_assist",
+      "title": "Lane Following Assist",
+      "summary": "Lane Following Assist uses the front camera to read lane markings or the vehicle ahead and helps keep the car centered by assisting the steering. It is switched on and off with the Lane Driving Assist button on the steering wheel. If the driver lets go of the wheel for several seconds, the car warns in stages and then turns the function off.",
+      "caution": "The driver keeps hands on the wheel and stays in control at all times; these are assistance features. It switches off when a trailer connector is plugged in.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        610,
+        611,
+        612,
+        613
+      ]
+    },
+    {
+      "card_id": "HYU-I5-advanced_driver_assist",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "advanced_driver_assist",
+      "title": "Highway Driving Assist and Lane Change Assist",
+      "summary": "Highway Driving Assist combines speed and distance control with lane centering on the main sections of controlled-access highways. It does not work on interchanges or junctions, and more roads can be added through navigation updates. Highway Lane Change Assist helps move into the next lane when the driver uses the turn signal and the system judges the change is possible.",
+      "caution": "The driver keeps hands on the wheel and stays in control at all times; these are assistance features. Never call it self-driving, autonomous or hands-free. Highway Driving Assist and Highway Lane Change Assist are available (if equipped).",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        615,
+        616,
+        623
+      ]
+    },
+    {
+      "card_id": "HYU-I5-route_planning",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "route_planning",
+      "title": "Charging station search in navigation",
+      "summary": "The EV menu lists charging stations along the route, near the current position, around the destination or saved as favorites, showing direction, distance, charger type and address. Live details on available chargers at each station need an active Bluelink account. Choosing a DC charging station as the trip destination or a stop also lets Battery Conditioning prepare the battery for arrival.",
+      "caution": "Charger availability details require a Bluelink account.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        61,
+        64,
+        65
+      ]
+    },
+    {
+      "card_id": "HYU-I5-preconditioning",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "preconditioning",
+      "title": "Battery Conditioning",
+      "summary": "Battery Conditioning heats or cools the high-voltage battery so DC charging performs close to how it would at room temperature. It can be switched on by hand in the EV menu, or it runs automatically when a DC charging station is set in navigation, timed to the arrival. Bluelink members can also start it remotely from the app while the car is parked.",
+      "caution": "Works only on vehicles with a battery heater and does not run when the charge is low; the energy it uses can shorten driving range.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        60,
+        61
+      ]
+    },
+    {
+      "card_id": "HYU-I5-mobile_app",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "mobile_app",
+      "title": "Bluelink and Digital Key",
+      "summary": "With a Hyundai account and the MyHyundai (Bluelink) app, owners can manage scheduled charging and start Battery Conditioning from a phone. Hyundai Digital Key lets a compatible smartphone or smart watch lock and unlock the doors and liftgate and start the car, after it is registered on the wireless charging pad. A Digital Key Card is also sold as an accessory.",
+      "caution": "Digital Key is available (if equipped) and works only on supported phones; remote features need an active Bluelink account.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        49,
+        61,
+        232,
+        233
+      ]
+    },
+    {
+      "card_id": "HYU-I5-software_updates",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "software_updates",
+      "title": "Over-the-air software updates",
+      "summary": "The car downloads new software wirelessly while driving, then offers to install it once it is turned off, with a choice to start now or later. Updates can bring new functions or improvements without a dealer visit, though dealers can still do them. The feature requires an active Bluelink account.",
+      "caution": "The car cannot be driven or charged while an update installs, and remote features are unavailable during it.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        332,
+        334,
+        335
+      ]
+    },
+    {
+      "card_id": "HYU-I5-climate_parked",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "climate_parked",
+      "title": "Utility Mode",
+      "summary": "Utility Mode draws on the high-voltage battery instead of the small auxiliary battery, so the audio, lights and other electrical features can be used while parked. The car stays in Park with the parking brake applied while the mode is on, and the indoor power outlet can be used at the same time. It is turned on from the EV menu and ends when the car is switched off.",
+      "caution": "The car cannot be driven in Utility Mode; keep an eye on the battery level so enough range remains to reach a charger. Never suggest leaving children or pets alone in the car.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        61,
+        62
+      ]
+    },
+    {
+      "card_id": "HYU-I5-power_outlets",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "power_outlets",
+      "title": "V2L",
+      "summary": "V2L supplies AC power from the driving battery to run electrical devices, for example while camping, or to charge another electric vehicle in an emergency. An outdoor connector plugs into the charging inlet, and an indoor power outlet works when the car is on or in Utility Mode. A discharge limit can be set so the power cuts off before the battery drops too low.",
+      "caution": "V2L use reduces driving range. Devices above the maximum power output shut it off; do not suggest powering medical equipment or heating appliances inside the car.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        59,
+        61,
+        62,
+        66,
+        69,
+        71
+      ]
+    },
+    {
+      "card_id": "HYU-I5-towing",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "towing",
+      "title": "Trailer towing",
+      "summary": "Vehicles with the long range battery can pull a trailer when fitted with the correct hitch and wiring, with hitch mounting points under the rear of the body. The manual stresses that a trailer changes handling, durability and energy economy, and recommends moderate speeds and a stronger regeneration level on long downhill grades. Weight limits and a break-in distance before towing must be respected.",
+      "caution": "Towing is available only with the long range battery (if equipped) and reduces range; take weight figures from ev.db, not from this card.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        474,
+        476,
+        479
+      ]
+    },
+    {
+      "card_id": "HYU-I5-cargo_space",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "cargo_space",
+      "title": "Front trunk and cargo",
+      "summary": "A small front trunk sits under the hood in the motor compartment, in addition to the rear cargo area. The rear seatbacks fold down for long items or extra luggage space. The front trunk has a modest weight limit that differs by drivetrain and is not meant for fragile items or liquids that could leak.",
+      "caution": "Cargo volume and weight limits come from ev.db, not from this card.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        115,
+        312,
+        313
+      ]
+    },
+    {
+      "card_id": "HYU-I5-energy_tips",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "energy_tips",
+      "title": "Energy consumption, distance to empty and ECO mode",
+      "summary": "The EV menu breaks down energy consumption by drivetrain, electronics, climate and battery care, and keeps a history of energy economy. Distance to empty is learned from driving habits and changes with speed, climate use, weather, terrain and battery condition. The manual suggests smooth acceleration, slowing mainly through regeneration, heated seats instead of heavy cabin heating, and ECO drive mode, which softens acceleration and may limit air conditioning.",
+      "caution": "Cold weather and climate use reduce range; treat distance to empty as an estimate. ECO mode is available (if equipped).",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        52,
+        53,
+        75,
+        76,
+        454
+      ]
+    },
+    {
+      "card_id": "HYU-I6-home_charging",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "home_charging",
+      "title": "Charging at home",
+      "summary": "The car charges from a professionally installed Level 2 AC charger at home or from a Level 2 public charger. A portable charging cable (ICCB) for ordinary household outlets is included for times when the car cannot reach a charging station. The charging current of the portable charger is set with a button on its control box to suit the outlet.",
+      "caution": "Household outlet charging is slow; set the portable charger current to match the outlet.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        22,
+        37
+      ]
+    },
+    {
+      "card_id": "HYU-I6-fast_charging",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "fast_charging",
+      "title": "DC charging",
+      "summary": "For shorter stops the car can charge at high speed from DC chargers at public charging stations. The connector locks automatically for the whole DC session and the instrument cluster shows the estimated charging time once it starts. Each DC network's own app or online information explains how to use its chargers.",
+      "caution": "The manual recommends AC charging for routine use because constant DC charging can reduce battery performance and life.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        22,
+        27,
+        31,
+        32
+      ]
+    },
+    {
+      "card_id": "HYU-I6-charging_how_to",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "charging_how_to",
+      "title": "How to plug in",
+      "summary": "With the car in Park and the doors unlocked, a press on the open indicator on the charging door opens it, and the inlet cover lifts to reveal the inlet. A Charging Connector Locking Mode setting chooses whether the AC connector locks always, only while charging, or not at all. Where equipped, an electric charging door closes by itself after the connector is removed or when the car leaves Park.",
+      "caution": "Unlock the doors before removing a locked connector; leaving the connector unlocked exposes the portable cable to theft. The electric charging door is available (if equipped).",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        27,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "card_id": "HYU-I6-scheduled_charging",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "scheduled_charging",
+      "title": "Scheduled Charging and departure time",
+      "summary": "Scheduled Charging holds off charging until a set time so the car can use cheaper late-night electricity, and it applies to AC chargers and the portable cable. Next Departure Time links the schedule with a target cabin temperature, which the car reaches using power from the charger. Schedules can be set or cancelled in the EV menu or with the Bluelink app.",
+      "caution": "The car must be plugged in at the scheduled time; schedules do not apply at DC chargers.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        39,
+        43,
+        46
+      ]
+    },
+    {
+      "card_id": "HYU-I6-regen_braking",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "regen_braking",
+      "title": "Regenerative braking, i-PEDAL and Smart Regeneration System",
+      "summary": "Paddle shifters behind the steering wheel raise or lower how strongly the motor slows the car and recovers energy. i-PEDAL lets the driver speed up, slow down and stop using only the accelerator pedal. The Smart Regeneration System adjusts regeneration on its own while coasting based on the car ahead, the road slope and speed cameras, and it must be off before i-PEDAL can be used.",
+      "caution": "The car may not stop fully with i-PEDAL on slopes or slippery roads, so the driver still uses the brake pedal.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        306,
+        308,
+        309
+      ]
+    },
+    {
+      "card_id": "HYU-I6-adaptive_cruise",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "adaptive_cruise",
+      "title": "Smart Cruise Control",
+      "summary": "Smart Cruise Control keeps a set speed and a set gap to the vehicle in front, and can help accelerate when the driver pulls out to overtake. Navigation-based Smart Cruise Control uses map information on main highway roads to adjust speed, including slowing the car for curves. A setting based on driving style is offered on some vehicles.",
+      "caution": "The driver keeps hands on the wheel and stays in control at all times; these are assistance features. Navigation-based Smart Cruise Control and the driving style setting are available (if equipped).",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        417,
+        434
+      ]
+    },
+    {
+      "card_id": "HYU-I6-steering_assist",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "steering_assist",
+      "title": "Lane Following Assist",
+      "summary": "Lane Following Assist uses the front camera to read lane markings or the vehicle ahead and helps keep the car centered in its lane. If the wheel is left untouched for several seconds, the car warns in stages and then cancels the function. The manual makes clear that keeping the car in its lane remains the driver's job.",
+      "caution": "The driver keeps hands on the wheel and stays in control at all times; these are assistance features.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        439,
+        441
+      ]
+    },
+    {
+      "card_id": "HYU-I6-advanced_driver_assist",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "advanced_driver_assist",
+      "title": "Highway Driving Assist and Lane Change Assist",
+      "summary": "Highway Driving Assist combines speed and distance control with lane centering on the main sections of controlled-access highways, and it does not work on interchanges or junctions. Highway Lane Change Assist helps move into the next lane when the driver uses the turn signal and the system judges it safe to do so. More roads can be added through navigation updates.",
+      "caution": "The driver keeps hands on the wheel and stays in control at all times; these are assistance features. Never call it self-driving, autonomous or hands-free. Highway Lane Change Assist is available (if equipped).",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        443,
+        447,
+        449
+      ]
+    },
+    {
+      "card_id": "HYU-I6-route_planning",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "route_planning",
+      "title": "Charging station search in navigation",
+      "summary": "The EV menu can search for charging stations along the route, near the car, around the destination or among favorites, with details for each station. Charger availability at each station shows up for drivers signed up to Bluelink. Choosing a DC charging station as the destination while Battery Conditioning Mode is on lets the car prepare the battery for charging.",
+      "caution": "Charger availability details require a Bluelink subscription.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        49,
+        50
+      ]
+    },
+    {
+      "card_id": "HYU-I6-preconditioning",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "preconditioning",
+      "title": "Battery Conditioning Mode",
+      "summary": "Battery Conditioning Mode warms a cold high-voltage battery to keep driving and DC charging performance up, and is turned on in the EV settings. If a DC charging station is set as the destination while the mode is on, the battery is brought to a suitable temperature so charging takes less time after arrival. It may also run on its own when the battery is cold while driving or when scheduled climate starts.",
+      "caution": "Works only on vehicles with a battery heater and does not run when the charge is too low; the energy it uses can reduce driving range.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        48,
+        49
+      ]
+    },
+    {
+      "card_id": "HYU-I6-mobile_app",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "mobile_app",
+      "title": "Bluelink and Digital Key",
+      "summary": "The Bluelink app lets owners set or cancel scheduled charging from a phone, and a Bluelink subscription adds charger availability to the station search. Hyundai Digital Key lets a compatible smartphone or smart watch lock and unlock the doors and trunk and start the car once it is registered on the wireless charging pad.",
+      "caution": "Digital Key is available (if equipped) and works only on supported phones.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        39,
+        50,
+        188
+      ]
+    },
+    {
+      "card_id": "HYU-I6-software_updates",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "software_updates",
+      "title": "Over-the-air software updates",
+      "summary": "Where equipped, the car can download new software wirelessly while driving and then offers to install it after it is turned off. Installation needs the car parked with the parking brake on, lights off, hood closed and enough battery. The feature is limited to Hyundai Connected Services users.",
+      "caution": "Over-the-air updates are available (if equipped). The car cannot be used while an update installs.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        244,
+        245
+      ]
+    },
+    {
+      "card_id": "HYU-I6-climate_parked",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "climate_parked",
+      "title": "Utility Mode",
+      "summary": "Utility Mode draws on the high-voltage battery instead of the small auxiliary battery, so the audio, lights and other electrical features can be used while parked. It also allows the indoor power outlet to be used. The car stays in Park with the parking brake applied, and the mode ends when the car is switched off.",
+      "caution": "The car cannot be driven in Utility Mode. Never suggest leaving children or pets alone in the car.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        49,
+        50
+      ]
+    },
+    {
+      "card_id": "HYU-I6-power_outlets",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "power_outlets",
+      "title": "V2L",
+      "summary": "V2L supplies AC power from the driving battery to run electrical devices, for example while camping, or to charge another electric vehicle in an emergency. An outdoor connector plugs into the charging inlet, and an indoor power outlet, unlocked with the smart key, works when the car is on or in Utility Mode. A discharge limit can be set so the power cuts off before the battery drops too low.",
+      "caution": "V2L use reduces driving range. Devices above the maximum power output shut it off; do not suggest powering medical equipment or heating appliances inside the car.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        46,
+        52,
+        55,
+        56
+      ]
+    },
+    {
+      "card_id": "HYU-I6-towing",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "towing",
+      "title": "Trailer towing",
+      "summary": "Hyundai's manual says it does not recommend pulling a trailer with this car. Passenger and cargo load limits still apply to everything the car carries.",
+      "caution": "Do not present the car as a towing vehicle or mention towing capability in copy.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        346,
+        349
+      ]
+    },
+    {
+      "card_id": "HYU-I6-cargo_space",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "cargo_space",
+      "title": "Trunk and front trunk",
+      "summary": "A small front trunk under the hood adds storage on top of the rear trunk, which can be opened with a power trunk function. The rear seatbacks fold so longer items can pass through from the trunk. The front trunk has a low weight limit and is not meant for fragile items or liquids that could leak.",
+      "caution": "Power trunk is available (if equipped). Cargo volume and weight limits come from ev.db, not from this card.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        101,
+        233,
+        234
+      ]
+    },
+    {
+      "card_id": "HYU-I6-energy_tips",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "energy_tips",
+      "title": "Energy consumption, distance to empty and ECO mode",
+      "summary": "The Energy Information screen shows how much energy electronics, climate and other systems use, along with a history of energy economy. Distance to empty is based on past driving and outside temperature, so it shifts with speed, climate use, weather and terrain. The manual suggests smooth acceleration, recirculated air, heated seats instead of heavy cabin heating, and ECO drive mode, which softens acceleration and may limit air conditioning.",
+      "caution": "Cold weather and climate use reduce range; treat distance to empty as an estimate.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        42,
+        43,
+        61,
+        62,
+        333
+      ]
+    },
+    {
+      "card_id": "HYU-KE-home_charging",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "home_charging",
+      "title": "Charging at home",
+      "summary": "Kona Electric charges at home from a professionally installed Level 2 AC charger, which the manual describes as the most common charging method. A portable charging cable (ICCB) can charge the car from a standard household outlet, but the manual treats it as an emergency option rather than a way to fill the battery. Electricity used this way is billed at the ordinary home rate.",
+      "caution": "The manual is inconsistent about whether the portable charger comes with the car or is bought separately, so do not promise it is included. Use only a genuine Hyundai portable charger.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        23,
+        35,
+        41
+      ]
+    },
+    {
+      "card_id": "HYU-KE-fast_charging",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "fast_charging",
+      "title": "DC charging",
+      "summary": "Kona Electric can charge at high speed from DC chargers at public stations when time is short. The connector locks automatically during a DC session and unlocks when charging finishes, and the instrument cluster shows the estimated charging time once it starts.",
+      "caution": "The manual recommends AC charging for routine use because constant DC charging can reduce battery performance and life.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        33,
+        38,
+        39
+      ]
+    },
+    {
+      "card_id": "HYU-KE-charging_how_to",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "charging_how_to",
+      "title": "How to plug in",
+      "summary": "With the car in Park and the doors unlocked, a press on the symbol on the charging door opens it, and the inlet cover then lifts off. Push the connector in until it clicks to begin charging. A Lock Charging Cable setting decides whether the AC connector locks always, only while charging, or not at all.",
+      "caution": "Unlock the doors before removing a locked connector.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        33,
+        36,
+        39
+      ]
+    },
+    {
+      "card_id": "HYU-KE-scheduled_charging",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "scheduled_charging",
+      "title": "Scheduled Charging and departure time",
+      "summary": "Scheduled Charging delays charging so Kona Electric can use cheaper late-night electricity before your next departure, and it applies to AC chargers and the portable cable. Next Departure lets you pair the schedule with a target cabin temperature, which the car reaches using power from the charger. Schedules can be set or cancelled in the car or with the Bluelink app.",
+      "caution": "Schedules do not apply at DC chargers, and charging may not begin right away when a schedule is set.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        46,
+        52
+      ]
+    },
+    {
+      "card_id": "HYU-KE-regen_braking",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "regen_braking",
+      "title": "Regenerative braking, i-PEDAL and Smart Regeneration System",
+      "summary": "Paddle shifters set how strongly the motor slows Kona Electric and recovers energy, and holding the left paddle brings the car to a stop. i-PEDAL lets the driver accelerate, slow down and stop using only the accelerator pedal. The Smart Regeneration System adjusts regeneration while coasting based on the car ahead, the road slope and speed cameras, and it must be off before i-PEDAL can be used.",
+      "caution": "The car may not stop fully with i-PEDAL on slopes or slippery roads, so the driver still uses the brake pedal.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        340,
+        342,
+        343,
+        344
+      ]
+    },
+    {
+      "card_id": "HYU-KE-adaptive_cruise",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "adaptive_cruise",
+      "title": "Smart Cruise Control",
+      "summary": "Smart Cruise Control keeps a set speed and a set gap to the vehicle in front, using the front camera and radar, and can help accelerate when the driver pulls out to overtake. Navigation-based Smart Cruise Control uses map information on main highway roads to adjust speed, including slowing Kona Electric for curves.",
+      "caution": "The driver keeps hands on the wheel and stays in control at all times; these are assistance features.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        449,
+        466
+      ]
+    },
+    {
+      "card_id": "HYU-KE-steering_assist",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "steering_assist",
+      "title": "Lane Following Assist",
+      "summary": "Lane Following Assist uses the front camera to read lane markings or the vehicle ahead and helps keep Kona Electric centered in its lane by assisting the steering. If the wheel is left untouched for several seconds, the car warns in stages and then cancels the function.",
+      "caution": "The driver keeps hands on the wheel and stays in control at all times; these are assistance features.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        472,
+        474,
+        475
+      ]
+    },
+    {
+      "card_id": "HYU-KE-advanced_driver_assist",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "advanced_driver_assist",
+      "title": "Highway Driving Assist",
+      "summary": "Highway Driving Assist combines speed and distance control with lane centering on the main sections of controlled-access highways. It does not work on interchanges or junctions, and more roads can be added through navigation updates.",
+      "caution": "The driver keeps hands on the wheel and stays in control at all times; these are assistance features. Never call it self-driving, autonomous or hands-free. The Kona Electric manual does not describe Lane Change Assist, so do not mention it.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        477,
+        481,
+        483
+      ]
+    },
+    {
+      "card_id": "HYU-KE-route_planning",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "route_planning",
+      "title": "Charging station search in navigation",
+      "summary": "The Electric Vehicle menu lists charging stations along the route, near the car, around the destination or among favorites, with details for each one. Charger availability at each station appears for drivers signed up to Bluelink. Choosing a DC charging station as the trip destination or a stop also starts Battery Conditioning ahead of arrival.",
+      "caution": "Charger availability details require a Bluelink subscription.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        60,
+        62
+      ]
+    },
+    {
+      "card_id": "HYU-KE-preconditioning",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "preconditioning",
+      "title": "Battery Conditioning",
+      "summary": "Battery Conditioning keeps the high-voltage battery at a good temperature for driving and DC charging, which also helps protect it from wear. It can be turned on by hand in the Electric Vehicle menu or run automatically when a DC charging station is set as a destination or waypoint. Bluelink members can control it remotely from the app while parked.",
+      "caution": "Works only on vehicles with a battery heater and does not run when the charge is low; the energy it uses can shorten driving range.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        59,
+        60
+      ]
+    },
+    {
+      "card_id": "HYU-KE-mobile_app",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "mobile_app",
+      "title": "Bluelink and Digital Key",
+      "summary": "The Bluelink app lets owners set or cancel scheduled charging and control Battery Conditioning remotely. Hyundai Digital Key Touch lets a compatible smartphone lock and unlock the front doors and start Kona Electric once it is registered on the wireless charging pad.",
+      "caution": "Digital Key is available (if equipped) and works only on supported phones; remote features need a Bluelink account.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        46,
+        60,
+        215
+      ]
+    },
+    {
+      "card_id": "HYU-KE-software_updates",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "software_updates",
+      "title": "Over-the-air software updates",
+      "summary": "Kona Electric can download new software wirelessly while driving and then offers to install it after the car is turned off. Installation needs the car parked with the parking brake on, lights off, hood closed and enough battery, and updates may add new functions or improvements. The feature is limited to Hyundai Connected Services users.",
+      "caution": "The car cannot be used while an update installs.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        272,
+        273
+      ]
+    },
+    {
+      "card_id": "HYU-KE-climate_parked",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "climate_parked",
+      "title": "Utility Mode",
+      "summary": "Utility Mode draws on the high-voltage battery instead of the small auxiliary battery, so the audio, lights and other electrical features can be used while parked. The car stays in Park with the parking brake applied, and the mode ends when the car is switched off.",
+      "caution": "The car cannot be driven in Utility Mode. Never suggest leaving children or pets alone in the car.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        61
+      ]
+    },
+    {
+      "card_id": "HYU-KE-power_outlets",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "power_outlets",
+      "title": "V2L",
+      "summary": "V2L supplies AC power from the driving battery through a connector that plugs into the charging inlet, for example to run devices while camping or to charge another electric vehicle in an emergency. A discharge limit can be set so the power cuts off before the battery drops too low. The connector shuts off if a device draws more than the car can supply.",
+      "caution": "V2L use reduces driving range. The Kona Electric manual describes only the outdoor connector, not an indoor outlet.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        58,
+        64,
+        67,
+        68
+      ]
+    },
+    {
+      "card_id": "HYU-KE-towing",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "towing",
+      "title": "Trailer towing",
+      "summary": "Hyundai's manual says it does not recommend pulling a trailer with Kona Electric. If a hitch is fitted, the manual limits its use to bike or wheelchair racks.",
+      "caution": "Do not present Kona Electric as a towing vehicle; a hitch is for racks only.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        378,
+        380
+      ]
+    },
+    {
+      "card_id": "HYU-KE-cargo_space",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "cargo_space",
+      "title": "Front trunk and cargo area",
+      "summary": "A small front trunk under the hood adds storage alongside the rear cargo area behind the liftgate. The cargo area has a removable cover and holders for an optional cargo net. The front trunk has a low weight limit and is not meant for fragile items or liquids that could leak.",
+      "caution": "Cargo net holder is available (if equipped). Cargo volume and weight limits come from ev.db, not from this card.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        260,
+        317
+      ]
+    },
+    {
+      "card_id": "HYU-KE-energy_tips",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "energy_tips",
+      "title": "Energy consumption, distance to empty and ECO mode",
+      "summary": "The Electric Vehicle menu shows energy consumption for the drivetrain, electronics, climate and other systems, plus a history of energy economy. Distance to empty depends on driving habits, climate use, weather, terrain and battery condition. The manual suggests smooth acceleration, heated seats instead of heavy cabin heating, and ECO drive mode, which softens acceleration and may limit air conditioning.",
+      "caution": "Cold weather and climate use reduce range; treat distance to empty as an estimate. Drive mode selection is available (if equipped).",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        50,
+        73,
+        74,
+        367
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-home_charging",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "home_charging",
+      "title": "Level 2 and portable charge cord charging at home",
+      "summary": "The Equinox EV may include a portable charge cord linking a standard household outlet to the on-board charger, and it can also plug into a home Level 2 charging station. In the Charging app you can pick a cord limit that matches your outlet so current draw and charge time estimates stay accurate. The manual suggests leaving the cord mounted and plugged in for daily use.",
+      "caution": "Have an electrician check the outlet and circuit first; do not use extension cords or adapters that GM has not approved.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        104,
+        258,
+        266,
+        267
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-fast_charging",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "fast_charging",
+      "title": "DC fast charging",
+      "summary": "If equipped, the Equinox EV can use public DC fast charging stations with a CCS connector, and an approved adapter lets it use stations built for the North American Charging Standard. Fast charging starts as soon as the plug is connected and skips any charge schedule. Fast Charge Prep, if equipped, warms or cools the battery beforehand so the session goes quicker.",
+      "caution": "Charging slows as the battery fills and varies with temperature and station capability; only use GM approved adapters.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        105,
+        107,
+        251,
+        252
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-charging_how_to",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "charging_how_to",
+      "title": "How to plug in at the charge port",
+      "summary": "With the vehicle in Park, a push on the rear edge of the charge port door opens it, and the portable charge cord is stored under the cargo load floor. For DC charging you also lower a dust cover before plugging in and then follow the station's steps. A charge status light and a chirp confirm the connection, and some versions show progress in light bars on the headlights.",
+      "caution": "The vehicle cannot be driven while the cord is plugged in.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        252,
+        253,
+        254
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-scheduled_charging",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "scheduled_charging",
+      "title": "Charge schedule and Target Charge Level",
+      "summary": "The Charging app lets you set a Target Charge Level and choose Charge Now or Charge Later, which finishes charging by your chosen departure time. A weekly charge schedule can be set for any day of the week, applied whenever the car is plugged in at the saved Home Location. Preferred Charge Times can steer charging toward a utility's off-peak hours to lower cost.",
+      "caution": "The manual recommends a lower charge level for daily driving, mountain descents and towing; do not promise a full charge every day.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        103,
+        105,
+        106,
+        107
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-regen_braking",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "regen_braking",
+      "title": "One-Pedal Driving and Regen on Demand",
+      "summary": "One-Pedal Driving lets the driver slow the Equinox EV to a full stop by easing off the accelerator, with Off, Normal and High settings. Regen on Demand, if equipped, adds more slowing while the steering wheel paddle is held. Both recover energy through regenerative braking, and the friction brakes step in when less regeneration is available.",
+      "caution": "The manual says to turn off One-Pedal Driving and avoid the paddle on slippery roads; the brake pedal is still needed for emergency stops.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        159,
+        175,
+        176,
+        180
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-adaptive_cruise",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "adaptive_cruise",
+      "title": "Adaptive Cruise Control",
+      "summary": "If equipped, Adaptive Cruise Control keeps a set speed and a chosen following gap of Far, Medium or Near behind a vehicle detected ahead. It uses a camera and radar and can accelerate or brake moderately, working like regular cruise control when the lane ahead is clear. It is most useful on freeways and interstate highways.",
+      "caution": "Available on equipped vehicles. Braking ability is limited and it does not detect pedestrians or animals; the driver must stay attentive and ready to brake.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        183,
+        184
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-steering_assist",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "steering_assist",
+      "title": "Lane Keep Assist",
+      "summary": "If equipped, Lane Keep Assist watches lane markings with a windshield camera and can gently turn the steering wheel when the vehicle drifts toward a marking without a turn signal. It can also give a Lane Departure Warning alert if a marking is crossed. The driver can override it at any time by steering.",
+      "caution": "Available on equipped vehicles. It does not steer continuously; the driver must keep steering and watch the road. Turn it off when towing or on slippery roads.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        247,
+        248
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-advanced_driver_assist",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "advanced_driver_assist",
+      "title": "Super Cruise",
+      "summary": "If equipped, Super Cruise provides hands-free driving assistance on compatible roads, working together with Adaptive Cruise Control to hold speed, following gap and lane position. It can also change lanes in some situations and offers a hands-on lane centering mode on a wider set of roads. A driver attention camera checks that the driver's eyes stay on the road, and hands may leave the wheel only when the steering wheel light bar shows green.",
+      "caution": "Available on equipped vehicles only and needs an active OnStar connected service plan. Hands-free only on compatible roads; never call it self-driving or autonomous. Always pay attention to the road: the driver must supervise and be ready to steer or brake at any time.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        207,
+        208,
+        209,
+        210
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-route_planning",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "route_planning",
+      "title": "Charging station search in navigation",
+      "summary": "Charge Assist in the Charging app finds nearby stations and shows ports, connector types, pricing and the estimated charge left on arrival. With vehicle data shared, Google Maps estimates arrival charge and minimum charging time and can add charging stops to a route automatically. Routes planned in the myChevrolet app can be opened in the vehicle.",
+      "caution": "Station details and pricing come from providers and may change.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        105,
+        107,
+        132
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-preconditioning",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "preconditioning",
+      "title": "Preconditioning and battery conditioning",
+      "summary": "When Charge Later or a charge schedule is used, the Equinox EV can heat or cool the cabin before departure using power from the charger instead of the battery. Fast Charge Prep, if equipped, conditions the battery temperature ahead of a fast charge and starts on its own when a fast charging stop is added in Google Maps. Running climate through remote start while plugged in also saves battery energy.",
+      "caution": "Fast Charge Prep is available on equipped vehicles; battery conditioning can take longer in very hot or cold weather.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        104,
+        107,
+        159
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-mobile_app",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "mobile_app",
+      "title": "myChevrolet app and OnStar",
+      "summary": "The myChevrolet app runs on compatible iPhone and Android phones and can monitor charging status from a distance. It also links charge provider accounts and saves planned routes that show up in the vehicle. Many remote features depend on OnStar connected services.",
+      "caution": "An active OnStar or connected service plan may be required, features are subject to change, and data rates apply.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        105,
+        249,
+        360
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-software_updates",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "software_updates",
+      "title": "Software updates",
+      "summary": "If equipped, the Equinox EV can receive software updates over the air, with update settings in the infotainment menu. OnStar or GM may send updates remotely to maintain or improve safety, security and vehicle operation.",
+      "caution": "Updates can erase saved settings such as navigation destinations or radio presets; an active OnStar agreement counts as consent to remote updates.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        128,
+        357,
+        358
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-power_outlets",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "power_outlets",
+      "title": "Power outlets and PowerBase",
+      "summary": "The Equinox EV has accessory power outlets in the front console and rear cargo area, plus a household-style outlet on the back of the console if equipped. If equipped, PowerBase Controls in the Charging app manage sharing the high voltage battery with a device, a home or another vehicle, including a setting that keeps power flowing while the vehicle is off. A battery level can be reserved for driving or a timer set to end the session.",
+      "caution": "The household outlet and PowerBase are available on equipped vehicles only; the outlets are for low-power accessories, not power tools or medical equipment.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        85,
+        86,
+        106,
+        258
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-towing",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "towing",
+      "title": "Trailering",
+      "summary": "The Equinox EV can pull a trailer once the steps in Chevrolet's separate Trailer Towing Supplement are followed. Tow/Haul mode is recommended for steep grades or heavy loads, and Hitch Guidance on the rear camera helps line up the hitch with a trailer. The manual advises a lower charge level before long descents with a trailer so regenerative braking can help slow the vehicle.",
+      "caution": "Towing figures depend on configuration and come from the spec database, not this card. Towing adds stress on the brakes; mention reduced range if towing appears in copy.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        164,
+        193,
+        227,
+        267
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-cargo_space",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "cargo_space",
+      "title": "Seats and cargo",
+      "summary": "Either side of the rear seatback folds forward for more cargo space. The rear compartment has storage under the load floor, cargo tie-downs and, on some vehicles, a convenience net for small items. Side rails for a roof rack system may be fitted, with cross rails sold by the dealer.",
+      "caution": "Cargo volume and roof load limits differ by configuration; take numbers from ev.db, not from this card.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        40,
+        79,
+        80
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-energy_tips",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "energy_tips",
+      "title": "Energy usage and efficiency",
+      "summary": "Energy Usage and Energy Efficiency displays show how the Equinox EV has used energy and what share went to driving and other systems. The manual recommends smooth acceleration, coasting, One-Pedal Driving and heated seats instead of full cabin climate to stretch range. Higher speeds and hills use noticeably more energy.",
+      "caution": "Range changes with speed, terrain, weather and climate use; keep range claims as estimates.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        108,
+        109,
+        159
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-home_charging",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "home_charging",
+      "title": "Level 2 and portable charge cord charging at home",
+      "summary": "The Blazer EV may come with a portable charge cord for standard household outlets, and it can also use a home Level 2 charging station. A cord limit setting in the Charging app matches current draw to the outlet and keeps charge time estimates accurate. The manual asks owners to have an electrician confirm the outlet and wiring can handle a heavy continuous load before first use.",
+      "caution": "Do not use extension cords, power strips or adapters that GM has not approved.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        99,
+        101,
+        250,
+        258
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-fast_charging",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "fast_charging",
+      "title": "DC fast charging",
+      "summary": "If equipped, the Blazer EV can charge at public DC fast charging stations with a CCS connector, and a GM approved adapter allows stations built for the North American Charging Standard. Fast charging starts right away and ignores any charge schedule. Fast Charge Prep, if equipped, brings the battery to a good temperature before arriving at the charger.",
+      "caution": "Charging slows as the battery fills and depends on temperature and station capability; only use GM approved adapters.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        101,
+        103,
+        242,
+        243
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-charging_how_to",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "charging_how_to",
+      "title": "How to plug in at the charge port",
+      "summary": "With the vehicle in Park, pressing the top left corner of the charge port door opens it, and the portable charge cord is kept under the cargo load floor. After AC charging the door closes on its own once the vehicle is shifted out of Park, or with a button. A charge status light and an audible chirp confirm that charging has started.",
+      "caution": "The vehicle cannot be driven while the cord is plugged in.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        242,
+        243,
+        246
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-scheduled_charging",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "scheduled_charging",
+      "title": "Charge schedule and Target Charge Level",
+      "summary": "The Charging app sets a Target Charge Level and offers Charge Now or Charge Later, which times charging to finish by departure. A charge schedule can assign settings to each day of the week when the Blazer EV is plugged in at the Home Location. Preferred Charge Times favor a utility's off-peak period to help lower charging cost.",
+      "caution": "The manual recommends a lower charge level for daily driving, mountain descents and towing; do not promise a full charge every day.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        100,
+        102,
+        103,
+        104
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-regen_braking",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "regen_braking",
+      "title": "One-Pedal Driving and Regen on Demand",
+      "summary": "One-Pedal Driving lets the Blazer EV slow to a complete stop as the driver lifts off the accelerator, with Off, Normal and High settings. Regen on Demand, if equipped, increases slowing while the steering wheel paddle is held. Both recover energy, and the regular brakes help when regenerative braking is limited.",
+      "caution": "Turn off One-Pedal Driving and avoid the paddle on slippery roads; the brake pedal is still needed for emergency stops.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        160,
+        176,
+        177,
+        181
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-adaptive_cruise",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "adaptive_cruise",
+      "title": "Adaptive Cruise Control",
+      "summary": "If equipped, Adaptive Cruise Control lets the driver pick a set speed and a following gap behind a vehicle detected ahead. A camera and radar let it accelerate or apply moderate braking to keep that gap, and it acts like regular cruise control when no vehicle is ahead. Pressing the brake pedal disengages it.",
+      "caution": "Available on equipped vehicles. Braking ability is limited; the driver must stay attentive and ready to brake.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        186,
+        187
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-steering_assist",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "steering_assist",
+      "title": "Lane Keep Assist",
+      "summary": "If equipped, Lane Keep Assist uses a camera to spot lane markings and may gently steer the Blazer EV back when it nears a marking without a turn signal. It can also sound or show a Lane Departure Warning alert. Turning the wheel overrides it.",
+      "caution": "Available on equipped vehicles. It does not steer continuously; the driver must keep steering and watch the road. Turn it off when towing or on slippery roads.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        237,
+        238
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-advanced_driver_assist",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "advanced_driver_assist",
+      "title": "Super Cruise",
+      "summary": "If equipped, Super Cruise offers hands-free driving assistance on compatible roads, keeping lane position while Adaptive Cruise Control handles speed and following gap. It relies on cameras, GPS and a high-precision map, and can change lanes when the driver uses the turn signal or, if equipped, on its own to pass slower traffic. A driver attention system confirms the driver is looking at the road.",
+      "caution": "Available on equipped vehicles only and needs an active OnStar connected service plan. Hands-free only on compatible roads; never call it self-driving or autonomous. Always pay attention to the road: the driver must supervise and be ready to steer or brake at any time.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        197,
+        198,
+        200,
+        201
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-route_planning",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "route_planning",
+      "title": "Charging station search in navigation",
+      "summary": "Charge Assist lists nearby and favorite charge stations with connector types, pricing and the estimated charge remaining on arrival. Google Maps can estimate arrival charge and minimum charging time and add charging stops when a destination needs one. Routes saved in the myChevrolet app can be started from the vehicle.",
+      "caution": "Station details and pricing come from providers and may change.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        101,
+        102,
+        103,
+        128
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-preconditioning",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "preconditioning",
+      "title": "Preconditioning and battery conditioning",
+      "summary": "With Charge Later or a schedule, the Blazer EV can bring the cabin to a set temperature before departure using charger power rather than the battery. Fast Charge Prep, if equipped, conditions the battery for a fast charge and begins automatically when a fast charging stop is added to a Google Maps route. Remote start climate while plugged in also saves battery energy.",
+      "caution": "Fast Charge Prep is available on equipped vehicles; conditioning can take longer in extreme temperatures.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        100,
+        101,
+        103,
+        160
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-mobile_app",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "mobile_app",
+      "title": "myChevrolet app and OnStar",
+      "summary": "The myChevrolet app on compatible Apple and Android phones can check the Blazer EV's charging status remotely. It stores linked charge provider accounts and routes that can be opened on the infotainment screen. Many connected features rely on OnStar.",
+      "caution": "An active OnStar or connected service plan may be required, features are subject to change, and data rates apply.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        101,
+        102,
+        352
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-software_updates",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "software_updates",
+      "title": "Software updates",
+      "summary": "If equipped, the Blazer EV supports software updates over the air, managed from the infotainment settings. OnStar or GM may send updates remotely to keep up or improve safety, security and the operation of vehicle systems.",
+      "caution": "Updates can erase stored settings such as saved destinations; an active OnStar agreement counts as consent to remote updates.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        124,
+        349,
+        350
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-towing",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "towing",
+      "title": "Trailering",
+      "summary": "Except for the SS, the Blazer EV can tow a trailer after following Chevrolet's separate Trailer Towing Supplement. Tow/Haul mode is suggested for steep grades or heavy loads, the trailer gain should be set when using Adaptive Cruise Control with a trailer, and Hitch Guidance on the rear camera helps line up the hitch. The manual states that the SS version is not designed to tow a trailer.",
+      "caution": "Towing figures depend on configuration and come from the spec database, not this card. Never show the Blazer EV SS towing; mention reduced range if towing appears in copy.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        196,
+        217,
+        259
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-cargo_space",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "cargo_space",
+      "title": "Seats and cargo",
+      "summary": "Each side of the rear seatback can fold forward to make more cargo room. The rear compartment has storage under the load floor and cargo tie-downs, and a front console storage area holds small items. The Blazer EV may have side rails for a roof rack system, with cross rails sold by the dealer.",
+      "caution": "Cargo volume and roof load limits differ by configuration; take numbers from ev.db, not from this card.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        38,
+        77,
+        78
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-energy_tips",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "energy_tips",
+      "title": "Energy usage and efficiency",
+      "summary": "Energy Usage and Energy Efficiency screens show where the Blazer EV's energy has gone since the last start. The manual suggests gentle acceleration, coasting, One-Pedal Driving, the Regen on Demand paddle and heated seats in place of full cabin climate. High speeds and grades reduce range considerably.",
+      "caution": "Range changes with speed, terrain, weather and climate use; keep range claims as estimates.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        105,
+        106,
+        160
+      ]
+    },
+    {
+      "card_id": "CHV-SV-home_charging",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "home_charging",
+      "title": "Level 2 and portable charge cord charging at home",
+      "summary": "The Silverado EV may come with a portable charge cord for household outlets and can also connect to a home Level 2 charging station. The Charging app has a cord limit setting so current flow matches the outlet and charge time estimates stay accurate. Before first use, the manual asks for an electrician to confirm the outlet and wiring are fit for heavy continuous use.",
+      "caution": "Do not use extension cords, power strips or adapters that GM has not approved.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        123,
+        125,
+        275,
+        283
+      ]
+    },
+    {
+      "card_id": "CHV-SV-fast_charging",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "fast_charging",
+      "title": "DC fast charging",
+      "summary": "If equipped, the Silverado EV charges at public DC fast charging stations with a CCS connector, and a GM approved adapter allows stations using the North American Charging Standard. A fast charging session begins immediately and bypasses any charge schedule. Fast Charge Prep, if equipped, prepares battery temperature ahead of time, and the power outlets pause briefly at the start and end of the highest-power sessions.",
+      "caution": "Charging speed depends on battery temperature, charge level and station capability; only use GM approved adapters.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        106,
+        126,
+        266,
+        268
+      ]
+    },
+    {
+      "card_id": "CHV-SV-charging_how_to",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "charging_how_to",
+      "title": "How to plug in at the charge port",
+      "summary": "With the truck in Park, pressing the rear edge of the charge port door opens it; for DC charging the dust cover is lowered before plugging in. A charge port light, an audible chirp and, if enabled, a charge status indicator on the headlights confirm charging. The portable charge cord goes back into its storage case after use.",
+      "caution": "The vehicle cannot be driven while the cord is plugged in.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        267,
+        269,
+        270
+      ]
+    },
+    {
+      "card_id": "CHV-SV-scheduled_charging",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "scheduled_charging",
+      "title": "Charge schedule and Target Charge Level",
+      "summary": "From the Charging app, owners set a Target Charge Level and choose Charge Now or Charge Later, which completes charging by a chosen departure time. A charge schedule can be created for different days of the week while plugged in at the Home Location. Preferred Charge Times push charging toward the utility's off-peak period to help save money.",
+      "caution": "The manual recommends a lower charge level for daily driving, mountain descents and towing; do not promise a full charge every day.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        124,
+        126,
+        127,
+        128
+      ]
+    },
+    {
+      "card_id": "CHV-SV-regen_braking",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "regen_braking",
+      "title": "One-Pedal Driving and Regen on Demand",
+      "summary": "One-Pedal Driving slows the Silverado EV to a stop as the accelerator is released, with Off, Normal and High settings that stay set until changed. Regen on Demand, if equipped, adds deceleration while the steering wheel paddle is held. The manual notes One-Pedal Driving is helpful when towing, though heavy loads or steep hills may still call for the brake pedal.",
+      "caution": "Turn off One-Pedal Driving and avoid the paddle on slippery roads; the brake pedal is still needed for emergency stops.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        181,
+        203,
+        207
+      ]
+    },
+    {
+      "card_id": "CHV-SV-adaptive_cruise",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "adaptive_cruise",
+      "title": "Adaptive Cruise Control",
+      "summary": "Adaptive Cruise Control lets the driver choose a set speed and a following gap behind a vehicle detected ahead. It can speed up or apply moderate braking to keep that gap and works like regular cruise control when nothing is detected ahead. Pressing the brake pedal turns it off.",
+      "caution": "Braking ability is limited and it will not react to pedestrians or animals; the driver must stay attentive and ready to brake.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        215,
+        216
+      ]
+    },
+    {
+      "card_id": "CHV-SV-steering_assist",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "steering_assist",
+      "title": "Lane Keep Assist",
+      "summary": "If equipped, Lane Keep Assist reads lane markings through a camera and may gently steer when the Silverado EV drifts toward a marking without a turn signal. A Lane Departure Warning alert can sound if a marking is crossed. Steering intentionally overrides the system.",
+      "caution": "Available on equipped vehicles. It does not steer continuously; the driver must keep steering and watch the road. Turn it off when towing or on slippery roads.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        263,
+        264
+      ]
+    },
+    {
+      "card_id": "CHV-SV-advanced_driver_assist",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "advanced_driver_assist",
+      "title": "Super Cruise",
+      "summary": "If equipped, Super Cruise provides hands-free driving assistance on compatible roads, working with Adaptive Cruise Control to manage speed, following gap and lane position. It supports lane changes and can be used with a trailer within the stated limits, lengthening the following gap while automatic lane changes are switched off. A driver attention camera monitors head position and eye gaze.",
+      "caution": "Available on equipped vehicles only and needs an active OnStar connected service plan. Hands-free only on compatible roads; never call it self-driving or autonomous. Always pay attention to the road: the driver must supervise and be ready to steer or brake at any time. Do not use Super Cruise Lane Change when towing.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        226,
+        227,
+        228,
+        229,
+        230
+      ]
+    },
+    {
+      "card_id": "CHV-SV-route_planning",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "route_planning",
+      "title": "Charging station search in navigation",
+      "summary": "Charge Assist in the Charging app finds stations and shows connector availability, pricing and the charge expected on arrival. Google Maps can estimate arrival charge and the minimum charging time and add charging stops automatically when needed. Adding a fast charging stop in Google Maps also starts Fast Charge Prep, if equipped.",
+      "caution": "Station details and pricing come from providers and may change.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        126,
+        128,
+        153
+      ]
+    },
+    {
+      "card_id": "CHV-SV-preconditioning",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "preconditioning",
+      "title": "Preconditioning and battery conditioning",
+      "summary": "Using Charge Later or a charge schedule, the Silverado EV can warm or cool the cabin before departure with energy from the charger instead of the battery. Fast Charge Prep, if equipped, sets the battery to a suitable temperature for faster DC charging. The manual also suggests using remote start to condition the cabin while plugged in.",
+      "caution": "Fast Charge Prep is available on equipped vehicles; conditioning can take longer in extreme temperatures.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        125,
+        128,
+        181
+      ]
+    },
+    {
+      "card_id": "CHV-SV-mobile_app",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "mobile_app",
+      "title": "myChevrolet app, OnStar and digital key",
+      "summary": "If equipped and enabled, a digital key lets a compatible phone or watch lock, unlock and start the Silverado EV, and it is paired and shared through the myChevrolet app and the device wallet. The myChevrolet app can also monitor charging status remotely. Setting up the digital key requires accepting the OnStar terms.",
+      "caution": "Digital key is available on equipped vehicles; carry the key card as a backup. An active OnStar or connected service plan may be required.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        17,
+        18,
+        125,
+        386
+      ]
+    },
+    {
+      "card_id": "CHV-SV-software_updates",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "software_updates",
+      "title": "Software updates",
+      "summary": "If equipped, the Silverado EV can receive software updates over the air, with settings in the infotainment menu. OnStar or GM may deliver updates remotely to maintain or improve safety, security and how vehicle systems work.",
+      "caution": "Updates can erase stored settings such as saved destinations; an active OnStar agreement counts as consent to remote updates.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        149,
+        383,
+        384
+      ]
+    },
+    {
+      "card_id": "CHV-SV-power_outlets",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "power_outlets",
+      "title": "Power outlets and PowerBase",
+      "summary": "The Silverado EV has household-style outlets at the rear of the console, in the bed and in the eTrunk, plus an accessory outlet in the front. With the PowerBase system, if equipped, the bed adds higher-power outlets including one for larger tools and equipment. The outlets work while the truck is on and can be enabled for use with the vehicle off from the infotainment settings.",
+      "caution": "PowerBase is available on equipped vehicles only. Never connect the outlets to a building's electrical system; output figures come from the spec database, and using outlets while charging lengthens charge time.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        103,
+        104,
+        105,
+        106
+      ]
+    },
+    {
+      "card_id": "CHV-SV-towing",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "towing",
+      "title": "Trailering",
+      "summary": "The Silverado EV is set up for trailering, with a Tow/Haul drive mode that adjusts pedal response, steering, suspension and trailer sway control for heavy loads. The camera app offers Hitch Guidance and trailer guidance lines, and trucks with the Integrated Trailer Brake Control show trailer gain and output in the instrument cluster. Owners should follow Chevrolet's separate Trailer Towing Supplement before towing.",
+      "caution": "Towing figures depend on configuration and come from the spec database, not this card. Towing reduces range and adds stress on the brakes; mention it if towing appears in copy.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        129,
+        209,
+        230,
+        243,
+        284
+      ]
+    },
+    {
+      "card_id": "CHV-SV-cargo_space",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "cargo_space",
+      "title": "Truck bed, Midgate and eTrunk",
+      "summary": "If equipped, the Midgate lets the cargo area extend into the cab once the rear seats are folded, with the rear glass removable and stored in a pocket. Under the hood, the lockable eTrunk adds covered storage with tie-downs and hooks for a convenience net. The truck bed has eight fixed tie-downs and drains designed to channel water away.",
+      "caution": "Midgate is available on equipped vehicles. Bed size and payload differ by configuration; take numbers from ev.db, not from this card.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        23,
+        25,
+        94,
+        96,
+        97
+      ]
+    },
+    {
+      "card_id": "CHV-SV-energy_tips",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "energy_tips",
+      "title": "Energy usage and efficiency",
+      "summary": "The Energy Usage screen splits the Silverado EV's energy use between driving, remote climate, PowerBase and battery conditioning. The manual recommends gentle acceleration, cruise control, the Regen on Demand paddle and heated seats to save energy, and notes that range is best at moderate highway speeds. Higher speeds and grade changes cut range significantly.",
+      "caution": "Range changes with speed, terrain, weather, towing and climate use; keep range claims as estimates.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        129,
+        130,
+        181
+      ]
+    },
+    {
+      "card_id": "TSL-M3-cabin_climate",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "feature": "cabin_climate",
+      "title": "Climate controls",
+      "summary": "Climate controls sit at the bottom of the touchscreen and start in Auto, where the car picks heating, cooling, airflow and fan speed on its own to hold the temperature you choose in nearly any weather. Seat heaters and defrosters are a tap away, and voice commands can change the temperature too. From the Tesla mobile app you can check the cabin temperature and heat or cool it before you get in, even inside a garage.",
+      "caution": "Climate runs on the high-voltage battery, so long use lowers range. Keep the burn warning for seat heaters in mind; avoid promising comfort in extreme weather.",
+      "source": "tesla_model3_Owners_Manual.pdf",
+      "pages": [
+        9,
+        53,
+        158,
+        159
+      ]
+    },
+    {
+      "card_id": "TSL-MY-cabin_climate",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "feature": "cabin_climate",
+      "title": "Climate controls",
+      "summary": "Climate controls sit at the bottom of the touchscreen and start in Auto, where the car picks heating, cooling, airflow and fan speed on its own to hold the temperature you choose in nearly any weather. Rear passengers can have their own setting kept when someone is detected back there. From the Tesla mobile app you can check the cabin temperature, warm or cool it before a drive, and defrost the glass on icy mornings.",
+      "caution": "Climate runs on the high-voltage battery, so long use lowers range. Keep the burn warning for seat heaters in mind; avoid promising comfort in extreme weather.",
+      "source": "tesla_modely_Owners_Manual.pdf",
+      "pages": [
+        72,
+        170,
+        171
+      ]
+    },
+    {
+      "card_id": "TSL-CT-cabin_climate",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "feature": "cabin_climate",
+      "title": "Climate controls",
+      "summary": "Climate controls start in Auto, so Cybertruck balances heating, cooling, airflow and fan speed by itself to keep the temperature you pick. A quick popup turns on heated or cooled seats where fitted and the front or rear defrosters, and the driver and passenger can split their settings. Voice commands can also change climate settings without touching the screen.",
+      "caution": "Cooled seats and rear heated seats depend on configuration. Climate use lowers range.",
+      "source": "tesla_cybertruck_Owners_Manual.pdf",
+      "pages": [
+        165,
+        168
+      ]
+    },
+    {
+      "card_id": "HYU-I5-cabin_climate",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "feature": "cabin_climate",
+      "title": "Automatic Climate Control System",
+      "summary": "With AUTO pressed, the climate system manages fan speed, air direction, intake and air conditioning by itself to reach the temperature you set. The fan can run at high, medium or low strength in automatic mode, and any setting you change by hand stays manual while the rest keep working on their own. Remote start with the smart key can switch on the vehicle and its climate system using the last settings, so the cabin is ready before you get in.",
+      "caution": "Remote start only works in Park with the hood and liftgate closed and the smart key nearby. Buttons differ by trim.",
+      "source": "2027_ioniq-5_2027_IONIQ_5_NEA_OM.pdf",
+      "pages": [
+        354,
+        355,
+        407
+      ]
+    },
+    {
+      "card_id": "HYU-I6-cabin_climate",
+      "brand": "Hyundai",
+      "model": "Ioniq 6",
+      "feature": "cabin_climate",
+      "title": "Automatic Climate Control System",
+      "summary": "Selecting AUTO on the climate panel or the infotainment screen lets the system choose fan speed, airflow and intake on its own to hold your temperature. Controls you adjust yourself stay manual while everything else keeps running automatically. When linked in settings, the heated steering wheel can adjust its warmth based on the outside temperature.",
+      "caution": "The steering wheel and seat features are available on equipped vehicles only. Panel layout differs by trim.",
+      "source": "2025_ioniq-6_CE-2025-en_US-WEB-2C_FINAL.pdf",
+      "pages": [
+        212,
+        260,
+        262,
+        263
+      ]
+    },
+    {
+      "card_id": "HYU-KE-cabin_climate",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "feature": "cabin_climate",
+      "title": "Automatic Climate Control System",
+      "summary": "Press AUTO and the climate system sets fan speed, air direction, intake and air conditioning by itself to match the temperature you choose. Pressing AUTO again during automatic operation steps the fan between high, medium and low strength. An available heated steering wheel warms up at the touch of a button and lowers its own setting after a while.",
+      "caution": "The heated steering wheel is available on equipped vehicles only. Climate use lowers range.",
+      "source": "2025_kona-ev_2025_Kona_Electric_SX2_EV_OM.pdf",
+      "pages": [
+        234,
+        290,
+        291
+      ]
+    },
+    {
+      "card_id": "CHV-EQ-cabin_climate",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "feature": "cabin_climate",
+      "title": "Automatic climate control",
+      "summary": "In AUTO the system runs the fan, air delivery, air conditioning and recirculation on its own to reach the temperature you set, and it may pick recirculation in hot weather to cool the cabin faster. Settings can be changed with the buttons or on the CLIMATE screen of the infotainment display, and SYNC matches the passenger side to the driver. If equipped, remote start can turn the heated seats on automatically when it is cold outside.",
+      "caution": "Remote start features and heated or ventilated seats are available on equipped vehicles only.",
+      "source": "2026_chevrolet_equinox_ev_Owner_Manual.pdf",
+      "pages": [
+        42,
+        153,
+        154
+      ]
+    },
+    {
+      "card_id": "CHV-BZ-cabin_climate",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "feature": "cabin_climate",
+      "title": "Automatic climate control",
+      "summary": "With AUTO on, Blazer EV adjusts fan speed, airflow and recirculation by itself to heat or cool the cabin to your chosen temperature, and dual zone controls are available. During a remote start the seats can warm up when it is cold and cool down when it is hot, if equipped. An available heated steering wheel can also come on during a cold-weather remote start.",
+      "caution": "Dual zone controls, remote start seat features and the heated steering wheel are available on equipped vehicles only.",
+      "source": "2026_chevrolet_blazer_ev_Owner_Manual.pdf",
+      "pages": [
+        38,
+        81,
+        154
+      ]
+    },
+    {
+      "card_id": "CHV-SV-cabin_climate",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "feature": "cabin_climate",
+      "title": "Automatic climate control",
+      "summary": "Touch AUTO and Silverado EV manages fan speed, air delivery, air conditioning and recirculation on its own, and stays in auto mode the next time you drive. A solar sensor on the dash tracks sunlight so the system can fine-tune temperature and airflow, and ECO Climate cuts airflow to empty rear seats to save energy. With remote start, the climate system can run before you get in, and equipped seats heat when it is cold or ventilate when it is hot.",
+      "caution": "Remote start, ventilated seats and the heated steering wheel are available on equipped vehicles only. Climate use lowers range.",
+      "source": "2026_chevrolet_silverado_ev_Owner_Manual.pdf",
+      "pages": [
+        48,
+        176,
+        177
+      ]
+    }
+  ]
+}

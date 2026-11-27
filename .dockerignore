@@ -1,0 +1,12 @@
+# Owner's manuals are copyrighted and only used locally to write the feature cards.
+data/manuals/
+index/chunks.*
+*.pdf
+# Secrets: the key is passed with `docker run -e GROQ_API_KEY=...`
+.env
+__pycache__/
+*.pyc
+.DS_Store
+# Personal notes and docs are not needed in the image
+yjs/
+docs/

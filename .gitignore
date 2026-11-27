@@ -1,0 +1,11 @@
+# Copyrighted owner's manuals and the full-text index built from them stay local.
+data/manuals/
+index/chunks.*
+*.pdf
+# Secrets
+.env
+__pycache__/
+*.pyc
+.DS_Store
+# Personal notes (Korean), kept out of the submission
+yjs/
