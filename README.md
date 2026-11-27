@@ -55,6 +55,20 @@ curl -X POST localhost:8000/copy -H "Content-Type: application/json" \
 Each returned variant carries its review: `rule_problems`, `unsupported_claims` (claims the judge could
 not find in the evidence) and `tone` scores (1–5) for the brand's three voice traits.
 
+## Run the demo UI (Streamlit, no Docker)
+
+Needs Python 3.13.
+
+```bash
+python -m venv .venv && source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install torch --index-url https://download.pytorch.org/whl/cpu
+pip install -r requirements.txt streamlit
+echo "GROQ_API_KEY=<your key>" > .env                     # same free key as above; never commit it
+streamlit run app.py                                      # opens http://localhost:8501
+```
+
+The first start takes about 10 seconds while the embedding model downloads and loads.
+
 ---
 
 ## How it works
