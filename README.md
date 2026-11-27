@@ -93,10 +93,15 @@ OpenAI-compatible endpoint, as in the course's M7 notebooks.
 
 | Data | File | Real or synthetic |
 |---|---|---|
-| Vehicle specs | `ev.db` table `specs` (from the Kaggle "EV Market" CSV) | **Synthetic** dataset |
+| Vehicle specs | `ev.db` table `specs` (Kaggle, CC BY 4.0; see below) | **Synthetic** dataset |
 | Past ad performance | `ev.db` table `ads` (made by `make_ad_samples.py`) | **Synthetic** |
 | Brand guidelines | `data/brand_guidelines_{tesla,hyundai,chevrolet}.md` | **Fictional**, written for this project; not official brand documents |
 | Feature cards | `data/feature_cards.json` (159 cards, 9 models) | Summaries of real owner's manuals, written in our own words, with PDF page citations |
+
+Vehicle specs: "Electric Vehicle Market and Pricing Dataset 2026" by patelris, Kaggle,
+https://www.kaggle.com/datasets/patelris/electric-vehicle-market-and-pricing-dataset-2026, licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The original CSV is `data/ev_market_2026.csv`;
+`load_data.py` aggregates it to one row per model in `ev.db`.
 
 The owner's manuals themselves are copyrighted and are **not** included in the repository or the image;
 they were used locally (`retrieval.py build-manual`, `check_cards.py`) to write and verify the cards.
@@ -129,6 +134,7 @@ they were used locally (`retrieval.py build-manual`, `check_cards.py`) to write 
 | `data/` | Feature cards, brand guides, brand comparison, ad samples, evaluation sets, judge labels |
 | `index/` | Prebuilt knowledge base (`kb.json` text, `kb.npy` embeddings) |
 | `docs/project_steps_share_en.html` | Step-by-step project walkthrough and team decisions |
+| `docs/decisions.md` | Team decisions: what is pending, what was decided and why |
 
 ## Local development
 
